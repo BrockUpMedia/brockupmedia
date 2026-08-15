@@ -5,6 +5,8 @@ order. If you're running this manually instead of via the Routine, follow the sa
 
 ## Steps
 
+0. `git pull` in this repo first. This session's working copy can go stale between runs;
+   STRATEGY.md gets edited in place when facts change, so pull before reading it.
 1. Run the `lights-on-strategist` agent. It returns one angle brief (pillar, hook, source,
    what to avoid repeating).
 2. Pass that brief to the `lights-on-writer` agent. It returns three drafts: LinkedIn, Facebook,
@@ -28,5 +30,5 @@ that's the whole point of this system.
   current `limits.scheduledPosts`, the cap in STRATEGY.md may be out of date.
 - Can't find recent Drive material: the master folder id is in STRATEGY.md, search under it
   directly if the general search comes up short.
-- CTA URL still unconfirmed: use the fallback in STRATEGY.md and flag it in the summary so
-  Liza sees the reminder.
+- CTA looks wrong or outdated: STRATEGY.md is the source of truth, if the CTA there conflicts
+  with something else you've seen, trust STRATEGY.md and flag the conflict in the summary.
