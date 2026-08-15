@@ -21,7 +21,7 @@ Note: the `lights-on-partnerships` skill still describes this subdomain as "paus
 That's now out of date, flag it for a skill update the next time someone's in that skill.
 
 **Fallback CTA** (use if a post reads better as a direct-contact ask than a browse-the-site ask):
-`partnerships@brockupmedia.com.au`
+`brands@brockupmedia.com.au`
 
 Do not use `brockcasting.com.au/lights-on-brisbane` as the partnership CTA, that's the
 participant signup page for the training program, not the partner-facing page.
