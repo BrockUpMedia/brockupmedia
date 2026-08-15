@@ -5,7 +5,7 @@ to Buffer, on a daily loop, without turning into content-for-content's-sake.
 
 ## How it's structured
 
-Three sub-agents, each with one job, chained in order:
+Four sub-agents, each with one job, chained in order:
 
 1. **`lights-on-strategist`** (`.claude/agents/lights-on-strategist.md`) — picks the day's
    content angle from a rotating set of pillars, checks what's already queued so it doesn't
@@ -14,8 +14,15 @@ Three sub-agents, each with one job, chained in order:
    platform-native captions (LinkedIn, Facebook, Instagram), each carrying the correct call to
    action for that platform, in Lights On's brand voice.
 3. **`lights-on-scheduler`** (`.claude/agents/lights-on-scheduler.md`) — checks Buffer's queue
-   against the account's 10-post cap and queues what fits, reporting what was skipped if
-   anything was.
+   against the account's 10-post cap and submits what fits as pending-approval (never live),
+   reporting what was skipped if anything was.
+4. **`lights-on-daily-digest`** (`.claude/agents/lights-on-daily-digest.md`) — checks everything
+   sitting in draft or pending-approval in Buffer, today's and any left over from before, and
+   produces the reminder that tells Liza what needs her to press send.
+
+Nothing this system writes goes live on its own. Every post lands in Buffer as
+pending-approval, Liza is the one who sends it. That's what the digest agent is for: making sure
+those pending posts don't sit unnoticed.
 
 `STRATEGY.md` is the shared brief all three read: the CTA URL, the Buffer channel and cap
 details, the content library folder ids, the locked facts they're not allowed to invent beyond,

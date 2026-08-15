@@ -37,6 +37,9 @@ participant signup page for the training program, not the partner-facing page.
   - Instagram — "lightsonqld", id `6a5dc422e2638b94d79dc5c3`
 - Target queue depth: ~2-3 days per channel, topped up daily. Not a bulk weekly dump, the 10-post
   cap doesn't allow it across 3 channels at daily cadence.
+- **Approval gate**: every post the scheduler creates uses `needsApproval: true`. Nothing this
+  system produces goes live without Liza pressing send in Buffer herself. `lights-on-daily-digest`
+  is what reminds her these are waiting, so they don't sit for days unnoticed.
 
 ## Content library (Google Drive)
 

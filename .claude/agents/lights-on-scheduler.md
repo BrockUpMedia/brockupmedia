@@ -18,14 +18,24 @@ Before queuing anything:
 3. Call `mcp__Buffer__list_posts` filtered to queued/scheduled status and count how many are currently queued, per channel and in total.
 4. Target: keep roughly 2-3 days of queued posts per channel (not more), so the account never sits right at the 10-post ceiling with no room for a manually-inserted urgent post. If total queued is already at or above 8, queue nothing today and report that instead, rather than erroring out against the cap.
 
-## Queuing
+## Queuing requires approval, this account does not auto-publish
+
+Liza wants a checkpoint before anything goes live, not silent autoposting. Every post you create
+must be submitted with `needsApproval: true`. This puts it in Buffer as pending approval, visible
+in Buffer's approval queue, not live and not auto-sending. Never set `needsApproval: false` and
+never use `mode: shareNow`. The `lights-on-daily-digest` agent is what reminds Liza these are
+waiting, she presses send (or rejects) herself in Buffer.
 
 For each of the three drafts you were handed:
 
 1. Match it to the correct channel id from step 2.
-2. Call `mcp__Buffer__create_post` to schedule it (do not publish immediately). Use Buffer's queue/next-available-slot behavior for that channel unless STRATEGY.md specifies fixed posting times.
+2. Call `mcp__Buffer__create_post` with `needsApproval: true` to schedule it. Use Buffer's
+   queue/next-available-slot behavior for that channel unless STRATEGY.md specifies fixed times.
 3. Attach the image referenced in the draft if one was specified. If the draft says "TEXT ONLY," post without an image rather than blocking.
 
 ## After queuing
 
-Report a short summary: what was queued to which channel, what time it's scheduled for, and the new total queued count against the 10-post cap. If you skipped a channel because of the cap, say so explicitly so the daily loop's output makes that visible rather than silently dropping a post.
+Report a short summary: what was drafted for which channel awaiting approval, and the new total
+count against the 10-post cap (posts pending approval still count toward it). If you skipped a
+channel because of the cap, say so explicitly so the daily loop's output makes that visible
+rather than silently dropping a post.

@@ -12,10 +12,14 @@ order. If you're running this manually instead of via the Routine, follow the sa
 2. Pass that brief to the `lights-on-writer` agent. It returns three drafts: LinkedIn, Facebook,
    Instagram, each with the platform-correct CTA.
 3. Pass those three drafts to the `lights-on-scheduler` agent. It checks the Buffer queue against
-   the 10-post cap and queues what fits, reporting what was queued and what (if anything) was
-   skipped because of the cap.
-4. Summarize the run in 3-5 lines: the angle used, what was queued where and when, and the
-   current total queued count against the cap. This is what shows up as the day's result.
+   the 10-post cap and submits what fits as pending-approval (never auto-published), reporting
+   what was drafted and what (if anything) was skipped because of the cap.
+4. Run the `lights-on-daily-digest` agent. It checks everything currently sitting as draft or
+   pending approval in Buffer (today's new drafts plus anything from previous days still
+   unactioned) and produces the reminder that tells Liza what needs her to press send.
+5. Summarize the run in 3-5 lines: the angle used, what's now pending her approval and where, and
+   the digest's headline (anything overdue, or "all clear"). This is what shows up as the day's
+   result, and it's the thing Liza actually reads.
 
 ## When to skip the day entirely
 
