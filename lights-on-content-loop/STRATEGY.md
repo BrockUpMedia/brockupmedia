@@ -86,6 +86,37 @@ agent must flag it as unconfirmed rather than invent or round it.
 - No inspiration-porn hashtags (#overcome, #brave, #warrior). Use industry-relevant tags.
 - No posed-charity photography framing, no medical language.
 
+## Visual identity (from `lights-on-brand`, non-negotiable on every post)
+
+Every Lights On post must carry this identity. Call the `lights-on-brand` skill directly if
+it's available in this session. It is not always available in a fired/child session, so these
+exact specs are repeated here as the fallback, don't skip them just because the skill didn't load.
+
+**Photos pulled from the Drive library** (the default case): use as-is. Real participants,
+real settings, dark studio backgrounds. Never crop, filter, or overlay them in a way that fights
+the brand's dark, cinematic tone.
+
+**Any generated graphic** (quote card, stat card, cover tile, anything with text-on-image, e.g.
+made in Canva): must follow this spec exactly, no substitutions:
+
+| Role | Hex |
+|---|---|
+| Lights On Yellow (primary accent, CTAs, headlines) | `#FFD600` |
+| Near Black (primary background) | `#0D0D0D` |
+| Charcoal (secondary background/cards) | `#1A1A1A` |
+| White (text only, never a background) | `#FFFFFF` |
+
+Never Brock Green (`#55BB8B`), that's reserved for the Brock Casting footer link only, not Lights
+On content. Never a white or light background.
+
+- Headings/CTAs: Poppins (weights 700-900), uppercase for buttons/labels, tight tracking.
+- Body/captions in a graphic: Livvic.
+- Buttons: `#FFD600` background with `#0D0D0D` text, or transparent with `#FFD600` outline text,
+  5px corner radius, bold uppercase.
+
+If a drafted post would need a new graphic and nothing in the Drive library fits, flag it in the
+summary rather than generating an off-brand placeholder.
+
 ## Cadence
 
 Daily. The loop tops up Buffer's queue once a day rather than batching a week at a time, both
