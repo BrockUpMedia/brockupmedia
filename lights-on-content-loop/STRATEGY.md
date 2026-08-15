@@ -13,14 +13,12 @@ than posting anyway.
 
 ## Call to action
 
-**Primary CTA URL**: `https://brockupmedia.com.au` — the main Brock Up Media site, which lists
-its divisions including Lights On partnerships.
+**Primary CTA URL**: `https://partnerships.brockupmedia.com.au/` — the Lights On brand
+partnerships page. Confirmed live by Liza on 2026-08-15. This is the CTA for every post: LinkedIn
+and Facebook link to it directly, Instagram uses "link in bio" pointing to the same URL.
 
-Liza confirmed this page is live (2026-08-15) but the exact sub-path for the Lights On
-partnerships section specifically hasn't been verified by an agent yet (the site couldn't be
-fetched from this environment for confirmation). **Before the next run**, whoever operates this
-should confirm the precise URL (e.g. `brockupmedia.com.au/lights-on` or similar) and update this
-line. Until then, use the root domain, it gets a partner to the right site either way.
+Note: the `lights-on-partnerships` skill still describes this subdomain as "paused, not live."
+That's now out of date, flag it for a skill update the next time someone's in that skill.
 
 **Fallback CTA** (use if a post reads better as a direct-contact ask than a browse-the-site ask):
 `partnerships@brockupmedia.com.au`
