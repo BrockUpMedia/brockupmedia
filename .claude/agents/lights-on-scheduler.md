@@ -21,17 +21,26 @@ Before queuing anything:
 ## Queuing requires approval, this account does not auto-publish
 
 Liza wants a checkpoint before anything goes live, not silent autoposting. Every post you create
-must be submitted with `needsApproval: true`. This puts it in Buffer as pending approval, visible
-in Buffer's approval queue, not live and not auto-sending. Never set `needsApproval: false` and
-never use `mode: shareNow`. The `lights-on-daily-digest` agent is what reminds Liza these are
-waiting, she presses send (or rejects) herself in Buffer.
+must use `schedulingType: "notification"` (NOT `"automatic"`, that auto-publishes). This is the
+real field on the `create_post` tool, there is no separate `needsApproval` parameter despite what
+an earlier version of this file said, don't invent one. `"notification"` puts it in Buffer's
+manual-approval queue, not live and not auto-sending. Never use `mode: shareNow`. The
+`lights-on-daily-digest` agent is what reminds Liza these are waiting, she presses send (or
+rejects) herself in Buffer.
 
 For each of the three drafts you were handed:
 
 1. Match it to the correct channel id from step 2.
-2. Call `mcp__Buffer__create_post` with `needsApproval: true` to schedule it. Use Buffer's
-   queue/next-available-slot behavior for that channel unless STRATEGY.md specifies fixed times.
+2. Call `mcp__Buffer__create_post` with `mode: "addToQueue"` and `schedulingType: "notification"`.
+   Use Buffer's queue/next-available-slot behavior for that channel unless STRATEGY.md specifies
+   fixed times.
 3. Attach the image referenced in the draft if one was specified. If the draft says "TEXT ONLY," post without an image rather than blocking.
+4. **If `create_post` is denied by a permission classifier** (this happens when running
+   unattended, e.g. fired by a scheduled Routine with nobody live to approve the tool call): do
+   not retry or work around it. Stop, and instead output the drafted captions in full in your
+   report so nothing is lost, clearly labelled as "prepared but not yet queued, permission
+   blocked." Liza can paste them into Buffer herself, or grant a standing permission for
+   `mcp__Buffer__create_post` if she wants this to run fully unattended going forward.
 
 ## After queuing
 
