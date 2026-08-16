@@ -120,7 +120,9 @@ agent must flag it as unconfirmed rather than invent or round it.
 
 - Dark, bold, industry-insider voice. Speak to the creative industry, not about disabled people.
 - No em dashes or hyphen-as-pause anywhere in copy. Use a full stop or restructure instead.
-- No inspiration-porn hashtags (#overcome, #brave, #warrior). Use industry-relevant tags.
+- **Every post ends with 3-5 hashtags, no exceptions.** Industry-relevant ones
+  (#ScreenTraining #InclusiveCasting #BrandPartnerships #QueenslandFilm style). Never
+  inspiration-porn hashtags (#overcome, #brave, #warrior).
 - No posed-charity photography framing, no medical language.
 
 ## Visual identity (from `lights-on-brand`, non-negotiable on every post)
