@@ -19,7 +19,9 @@ order. If you're running this manually instead of via the Routine, follow the sa
    pending approval in Buffer (today's new drafts plus anything from previous days still
    unactioned) and produces the reminder that tells Liza what needs her to press send.
 5. Summarize the run in 3-5 lines: the angle used, what's now pending her approval and where, and
-   the digest's headline (anything overdue, or "all clear"). This is what shows up as the day's
+   the digest's headline (anything overdue, or "all clear"). **Always name the Drive image file**
+   each draft should carry (from the writer's IMAGE line), since the posts go up text-only and
+   she attaches the photo herself when she reviews in Buffer. This is what shows up as the day's
    result, and it's the thing Liza actually reads.
 
 ## When to skip the day entirely

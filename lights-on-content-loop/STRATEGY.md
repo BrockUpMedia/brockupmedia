@@ -52,7 +52,15 @@ participant signup page for the training program, not the partner-facing page.
 
 Master folder: "LIGHTS ON MASTER FOLDER" — `1xD6SUdRajhG998qSAdm1h5NwFgCkCRIH`
 
-Useful subfolders found there:
+**Primary folder, check here first**: "CLAUDE SOCIAL MEDIA COHORT !" —
+`1vZtL_KFrADBhGaMK-a5Demwz5rP5ej4W`. Liza set this up specifically for this loop and will keep
+adding to it, so treat it as the live, current source, not the scattered subfolders below. As of
+2026-08-16 it already has real photos (`20260317_182602.jpg`, `On-sET.jpg`,
+`20260407_194549.jpg`, `20260331_182436.jpg`) plus a lot of raw video clips from Feb and June
+2026 filming (`.mp4`, unedited, useful for Reels/behind-the-scenes but not as a caption image).
+Search it fresh each run, don't cache a stale list, she's adding to it over time.
+
+Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
   for current cohort content)
 - "Lights On BRAND" — `1Vvc8vU31wNIfANI7se5lP6R2gZav9LeC` (logos, brand assets)

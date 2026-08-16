@@ -36,7 +36,13 @@ For each of the three drafts you were handed:
    is rejected** — pass `metadata: {"facebook": {"type": "post"}}` for Facebook, and
    `metadata: {"instagram": {"type": "post", "shouldShareToFeed": true}}` for Instagram.
    LinkedIn needs no metadata for a plain text/image post.
-3. Attach the image referenced in the draft if one was specified. If the draft says "TEXT ONLY," post without an image rather than blocking.
+3. **Do not try to attach the Drive image to the Buffer post.** Buffer's `assets` field needs a
+   URL it can fetch directly, and the Drive files in the content library are private (owner-only),
+   confirmed 2026-08-16. Making a file public just so Buffer can hotlink it is a real privacy
+   tradeoff, not this agent's call to make unilaterally. Post text-only every time, and instead
+   name the exact Drive file in your report (e.g. "attach On-sET.jpg from the CLAUDE SOCIAL MEDIA
+   COHORT ! folder") so Liza can drag it in herself in the ~10 seconds she's already spending in
+   Buffer approving the post. If the writer's draft says "TEXT ONLY," there's nothing to flag.
 4. **If `create_post` is denied by a permission classifier** (this happens when this loop runs
    unattended, e.g. fired by the send_later chain with nobody live in the conversation — confirmed
    on 2026-08-16, the identical call succeeds moments later once Liza is actively chatting): do
