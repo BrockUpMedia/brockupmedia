@@ -54,11 +54,30 @@ Master folder: "LIGHTS ON MASTER FOLDER" — `1xD6SUdRajhG998qSAdm1h5NwFgCkCRIH`
 
 **Primary folder, check here first**: "CLAUDE SOCIAL MEDIA COHORT !" —
 `1vZtL_KFrADBhGaMK-a5Demwz5rP5ej4W`. Liza set this up specifically for this loop and will keep
-adding to it, so treat it as the live, current source, not the scattered subfolders below. As of
-2026-08-16 it already has real photos (`20260317_182602.jpg`, `On-sET.jpg`,
-`20260407_194549.jpg`, `20260331_182436.jpg`) plus a lot of raw video clips from Feb and June
-2026 filming (`.mp4`, unedited, useful for Reels/behind-the-scenes but not as a caption image).
-Search it fresh each run, don't cache a stale list, she's adding to it over time.
+adding to it, so treat it as the live, current source, not the scattered subfolders below.
+Search it fresh each run, don't rely only on the list below, she's adding to it over time. The
+writer agent's tools can't open images, so these written descriptions (checked visually on
+2026-08-16) are how it knows what's actually in a photo rather than guessing from the filename:
+
+- `20260317_182602.jpg` — **best general-purpose option.** Casual group photo, several cohort
+  members together including a wheelchair user, genuine warm energy, indoor setting with a city
+  view behind them. Matches the brand's "authentic moment" photography rule well. Good default
+  for proof-point or cohort-together posts.
+- `20260407_194549.jpg` — clean posed portrait of three people (looks like a mentor/staff plus
+  participants) against a plain light background, smiling at camera. Versatile, professional
+  looking, works for program-mechanics or partnership-credibility posts. Note: plain light
+  background, not the brand's usual dark studio tone, don't pair with heavy yellow/black text
+  overlay, it won't read well against it.
+- `On-sET.jpg` — behind-the-scenes shot of an actual shoot in progress: studio lighting rig, a
+  participant seated for a photo/video session, crew around a monitor. White backdrop, not dark.
+  Use this specifically for a "behind the scenes / real training" pillar post, not as a generic
+  proof-point image.
+- `20260331_182436.jpg` — **skip this one.** Badly framed candid, blocked by someone's leg in the
+  foreground, only a partial view of one person. Not usable as a post image as-is.
+
+Do not guess who is pictured in any of these. No name is confirmed from the photo alone, if a
+post needs to name someone, that name must come from STRATEGY.md's locked facts, not an assumption
+about who's in a photo.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
