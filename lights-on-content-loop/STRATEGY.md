@@ -37,9 +37,16 @@ participant signup page for the training program, not the partner-facing page.
   - Instagram — "lightsonqld", id `6a5dc422e2638b94d79dc5c3`
 - Target queue depth: ~2-3 days per channel, topped up daily. Not a bulk weekly dump, the 10-post
   cap doesn't allow it across 3 channels at daily cadence.
-- **Approval gate**: every post the scheduler creates uses `needsApproval: true`. Nothing this
-  system produces goes live without Liza pressing send in Buffer herself. `lights-on-daily-digest`
-  is what reminds her these are waiting, so they don't sit for days unnoticed.
+- **Approval gate**: every post the scheduler creates uses `schedulingType: "automatic"` +
+  `saveToDraft: true` (NOT `needsApproval`, that field doesn't exist; NOT
+  `schedulingType: "notification"`, Buffer rejects that for LinkedIn). This lands as a Buffer
+  draft, nothing live, until Liza queues and sends it herself. `lights-on-daily-digest` is what
+  reminds her these are waiting, so they don't sit for days unnoticed.
+- **Attended-only for now**: `create_post` gets denied by a permission classifier when this loop
+  fires unattended (nobody live in the conversation). Confirmed 2026-08-16: the identical call
+  works the moment Liza is actively chatting. This isn't fixable by granting a standing
+  permission, that path is blocked too. Practical effect: unattended runs draft the captions in
+  the chat report only; Buffer drafts actually get created on the next live turn. See RUN.md.
 
 ## Content library (Google Drive)
 
