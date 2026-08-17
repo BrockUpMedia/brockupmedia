@@ -3,6 +3,14 @@
 This is the prompt the scheduled Routine sends once a day. It chains the three sub-agents in
 order. If you're running this manually instead of via the Routine, follow the same steps.
 
+**Nothing gets published live. Ever. Full stop.** Every Buffer post this loop creates must use
+`saveToDraft: true`. This ran unattended on 2026-08-16 and skipped that field once, and two posts
+went live before Liza saw them. She built this loop specifically so she doesn't have to be
+present, so there's no safety net if this step is skipped, nobody's watching. Whoever or
+whatever executes this loop (a registered subagent, or a plain Claude instance reading these
+files as instructions because subagent registration didn't carry over) must treat this as the
+one rule that cannot bend.
+
 ## Steps
 
 0. `git pull` in this repo first. This session's working copy can go stale between runs;
