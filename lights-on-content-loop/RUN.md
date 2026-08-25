@@ -27,10 +27,11 @@ one rule that cannot bend.
    pending approval in Buffer (today's new drafts plus anything from previous days still
    unactioned) and produces the reminder that tells Liza what needs her to press send.
 5. Summarize the run in 3-5 lines: the angle used, what's now pending her approval and where, and
-   the digest's headline (anything overdue, or "all clear"). **Always name the Drive image file**
-   each draft should carry (from the writer's IMAGE line), since the posts go up text-only and
-   she attaches the photo herself when she reviews in Buffer. This is what shows up as the day's
-   result, and it's the thing Liza actually reads.
+   the digest's headline (anything overdue, or "all clear"). Posts carrying a library photo go up
+   with the image already attached, no manual step needed. The one exception: if the scheduler
+   flagged a photo as not-yet-shareable (STRATEGY.md's Public URL still "(pending)" for it), name
+   that file explicitly in the summary so Liza knows to do the one-time Drive share before it can
+   be used again, not to attach it by hand for this post specifically.
 
 ## When to skip the day entirely
 
