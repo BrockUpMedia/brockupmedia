@@ -45,13 +45,20 @@ For each of the three drafts you were handed:
    is rejected** — pass `metadata: {"facebook": {"type": "post"}}` for Facebook, and
    `metadata: {"instagram": {"type": "post", "shouldShareToFeed": true}}` for Instagram.
    LinkedIn needs no metadata for a plain text/image post.
-3. **Do not try to attach the Drive image to the Buffer post.** Buffer's `assets` field needs a
-   URL it can fetch directly, and the Drive files in the content library are private (owner-only),
-   confirmed 2026-08-16. Making a file public just so Buffer can hotlink it is a real privacy
-   tradeoff, not this agent's call to make unilaterally. Post text-only every time, and instead
-   name the exact Drive file in your report (e.g. "attach On-sET.jpg from the CLAUDE SOCIAL MEDIA
-   COHORT ! folder") so Liza can drag it in herself in the ~10 seconds she's already spending in
-   Buffer approving the post. If the writer's draft says "TEXT ONLY," there's nothing to flag.
+3. **Attach the photo automatically, don't leave it for Liza to drag in.** If the writer's IMAGE
+   line names a Drive file, look it up in STRATEGY.md's content-library list:
+   - If that photo has a **Public URL** recorded (not marked "pending"), pass it as the asset:
+     `assets: [{"image": {"url": "<the Public URL from STRATEGY.md>", "metadata": {"altText":
+     "<one-line description from STRATEGY.md's entry for that photo>"}}}]`. The post now carries
+     the image, Liza only has to review and press send, no manual attach step.
+   - If the photo isn't in STRATEGY.md's list yet, or is listed but its Public URL is still marked
+     "(pending)" (Liza hasn't done the one-time Drive share for it, see STRATEGY.md), post
+     text-only and flag it in your report: name the exact file (e.g. "On-sET.jpg needs the Drive
+     share step before it can auto-attach, see STRATEGY.md") so it's a one-time fix, not a
+     per-post one.
+   - If the writer's draft says "TEXT ONLY," there's nothing to flag, post text-only as intended.
+   Never make a Drive file public yourself to work around a missing URL, that permission change is
+   Liza's call (documented in STRATEGY.md), not something to route around.
 4. **If `create_post` is denied by a permission classifier** (this happens when this loop runs
    unattended, e.g. fired by the send_later chain with nobody live in the conversation — confirmed
    on 2026-08-16, the identical call succeeds moments later once Liza is actively chatting): do

@@ -63,17 +63,50 @@ writer agent's tools can't open images, so these written descriptions (checked v
   members together including a wheelchair user, genuine warm energy, indoor setting with a city
   view behind them. Matches the brand's "authentic moment" photography rule well. Good default
   for proof-point or cohort-together posts.
+  Drive file id: `16RmO8IXrK9hHAdo1eWP_-FrG0T9My_G9`. Public URL (pending, see below):
+  `https://drive.google.com/uc?export=view&id=16RmO8IXrK9hHAdo1eWP_-FrG0T9My_G9`
 - `20260407_194549.jpg` — clean posed portrait of three people (looks like a mentor/staff plus
   participants) against a plain light background, smiling at camera. Versatile, professional
   looking, works for program-mechanics or partnership-credibility posts. Note: plain light
   background, not the brand's usual dark studio tone, don't pair with heavy yellow/black text
   overlay, it won't read well against it.
+  Drive file id: `1LEQRnMy2vEz5vyv0O3P6tCsuQY91Iah8`. Public URL (pending, see below):
+  `https://drive.google.com/uc?export=view&id=1LEQRnMy2vEz5vyv0O3P6tCsuQY91Iah8`
 - `On-sET.jpg` — behind-the-scenes shot of an actual shoot in progress: studio lighting rig, a
   participant seated for a photo/video session, crew around a monitor. White backdrop, not dark.
   Use this specifically for a "behind the scenes / real training" pillar post, not as a generic
   proof-point image.
+  Drive file id: `1XDYiAQh5pUsDwahgjwJRK4LsTFTG3XNk`. Public URL (pending, see below):
+  `https://drive.google.com/uc?export=view&id=1XDYiAQh5pUsDwahgjwJRK4LsTFTG3XNk`
 - `20260331_182436.jpg` — **skip this one.** Badly framed candid, blocked by someone's leg in the
-  foreground, only a partial view of one person. Not usable as a post image as-is.
+  foreground, only a partial view of one person. Not usable as a post image as-is. Not shared,
+  don't share it, it's not going in a post.
+
+**Note on the duplicate**: the search that found these also turned up a second file also named
+`20260317_182602.jpg` (id `18PMUHPuvLplPvUile16fZUO194zePXQ9`, created a week earlier, identical
+file size). Only the id listed above (`16RmO8...`) has been recorded as the one to use. If posts
+using this photo come out broken, check whether the writer picked up the other id instead.
+
+### Making a photo attachable (one-time, per photo, Liza's action)
+
+Buffer's `create_post` can only attach an image it can fetch directly by URL, it cannot accept a
+manual upload. Drive files are private by default, so a curated photo only becomes usable in an
+automated post once its sharing is opened up. The MCP tools this loop runs with **cannot flip
+that permission themselves** (Drive's share tool available here only invites a specific person's
+email, it has no "anyone with the link" option), so this one step needs Liza, done once per
+photo, not per post:
+
+1. Open the file in Drive (the `viewUrl` from search, or find it in "CLAUDE SOCIAL MEDIA COHORT !").
+2. Share → General access → change "Restricted" to **"Anyone with the link"** → role **Viewer**.
+3. That's it. The public URL format above (`drive.google.com/uc?export=view&id=...`) starts
+   resolving immediately once that's set, no further action needed, the scheduler already knows
+   to use it.
+
+The three photos above still need this step done (marked "pending"). Once Liza confirms a photo
+is shared, drop "(pending, see below)" from its line. Any new photo she adds to the library later
+needs this same one-time share before the scheduler can attach it, until then the scheduler falls
+back to text-only for that photo and flags it in its report, exactly like it always has for an
+unmapped image.
 
 Do not guess who is pictured in any of these. No name is confirmed from the photo alone, if a
 post needs to name someone, that name must come from STRATEGY.md's locked facts, not an assumption
