@@ -31,17 +31,24 @@ participant signup page for the training program, not the partner-facing page.
 Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blotato.
 
 - Blotato plan: Starter, active (verified 2026-10-10).
-- **Connected accounts: NONE YET.** As of 2026-10-10 `blotato_list_accounts` returns an empty
-  list. Liza needs to connect the three Lights On accounts inside Blotato before anything can be
-  scheduled. Once connected, record the ids here:
-  - LinkedIn: "Lights On Agency Qld" company page. accountId `TBD`, pageId `TBD` (company pages
-    need the pageId from the account's subaccounts, otherwise it posts to Liza's personal profile)
-  - Facebook: "Lights On QLD". accountId `TBD`, pageId `TBD` (required)
-  - Instagram: "lightsonqld". accountId `TBD`
+- Connected accounts (verified 2026-10-10 via `blotato_list_accounts`):
+  - LinkedIn: accountId `38690` (Liza Brock). Lights On company page "Lights On Studio" is
+    pageId `133063933`. Always pass it, or the post goes to Liza's personal profile.
+  - Facebook: accountId `57070` (Liza Brock). "Lights On QLD" page is pageId
+    `1159899887215852` (required).
+  - Instagram: accountId `77116` ("lightsonqld"). Image feed posts need no mediaType; videos use
+    `mediaType: "reel"` with `shareToFeed: true`.
+  - Not Lights On, never post Lights On content to these: Facebook page "Brock Casting Services
+    Brisbane" (`236990256158164`), LinkedIn page "BROCK CASTING SERVICES" (`100888878`), YouTube
+    account `52989`.
+- Existing queue: as of 2026-10-10 Liza already has a Brisbane Disability Expo campaign
+  scheduled in Blotato (Facebook + Instagram every 2-3 days, 13 to 24 October, 6pm Brisbane).
+  The strategist must check `blotato_list_schedules` and not stack new posts on days that
+  already have one per channel.
 - Channels in scope: LinkedIn, Facebook, Instagram only. No TikTok. Do not add other platforms.
 - No 10-post cap any more. Target is still a rolling 2-3 days per channel, never a bulk dump.
-- Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the day after approval:
-  LinkedIn 7:45am, Facebook 12:15pm, Instagram 6:30pm. Change them here, not in an agent file.
+- Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the next free day after
+  approval: LinkedIn 7:45am, Facebook 6pm, Instagram 6pm (matching the times Liza already uses). Change them here, not in an agent file.
 
 ### Approval gate (non-negotiable)
 

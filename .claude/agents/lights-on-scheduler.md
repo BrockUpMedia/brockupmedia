@@ -40,7 +40,7 @@ Read back the exact arguments before sending. If any check fails, do not call th
    STRATEGY.md, on the next day, converted from Australia/Brisbane (UTC+10) to UTC ISO 8601.
 3. **Call `blotato_create_post`** with `accountId`, `platform`, `text`, `mediaUrls`,
    `scheduledTime`, plus:
-   - LinkedIn: `pageId` of the Lights On Agency Qld company page (without it, it posts to
+   - LinkedIn: `pageId` of the Lights On Studio company page (133063933) (without it, it posts to
      Liza's personal profile).
    - Facebook: `pageId` (required).
    - Instagram: nothing extra for a single-image feed post.
