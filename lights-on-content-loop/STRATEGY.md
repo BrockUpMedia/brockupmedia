@@ -138,6 +138,11 @@ These are for the strategist's context, not for pulling images from.
 - Brock Up Media Pty Ltd is a private company, not a nonprofit. Never call partnership
   contributions tax-deductible donations.
 - "Harry With Love" (6-episode series in development) always uses that exact title.
+- Confirmed by Liza 2026-10-10 (not yet in the `lights-on-partnerships` skill, flag for sync):
+  - Three of five pilot participants have booked paid work (the three placements above), with
+    no marketing spend.
+  - The 8-week program includes 24 hours on camera.
+  - On Lights On productions, at least one in five crew roles are held by disabled crew.
 
 For anything not listed here (a new placement, a new MOU, updated cohort numbers), the writer
 agent must flag it as unconfirmed rather than invent or round it.
