@@ -1,7 +1,7 @@
 # Lights On content loop: strategy brief
 
-This is the single source of truth the three agents (`lights-on-strategist`, `lights-on-writer`,
-`lights-on-scheduler`) read before doing anything. Keep it current. If a fact here goes stale,
+This is the single source of truth the four agents (`lights-on-strategist`, `lights-on-writer`,
+`lights-on-scheduler`, `lights-on-daily-digest`) read before doing anything. Keep it current. If a fact here goes stale,
 fix it here, not in one agent file, so all three stay in sync.
 
 ## Goal
@@ -26,27 +26,46 @@ That's now out of date, flag it for a skill update the next time someone's in th
 Do not use `brockcasting.com.au/lights-on-brisbane` as the partnership CTA, that's the
 participant signup page for the training program, not the partner-facing page.
 
-## Buffer setup (as of 2026-08-15)
+## Blotato setup (switched from Buffer on 2026-10-10)
 
-- Organization: "My Organization", id `6a3e0fd9307ac73dea85b3f4`
-- **Plan cap: 10 scheduled posts total, across all channels.** This is the hard constraint the
-  scheduler agent works around. If Liza upgrades the Buffer plan, raise this number here.
-- Channels:
-  - LinkedIn — "Lights On Agency Qld", id `6a4615c85ab6d2f106963238`
-  - Facebook — "Lights On QLD", id `6a5dc3e9e2638b94d79dc524`
-  - Instagram — "lightsonqld", id `6a5dc422e2638b94d79dc5c3`
-- Target queue depth: ~2-3 days per channel, topped up daily. Not a bulk weekly dump, the 10-post
-  cap doesn't allow it across 3 channels at daily cadence.
-- **Approval gate**: every post the scheduler creates uses `schedulingType: "automatic"` +
-  `saveToDraft: true` (NOT `needsApproval`, that field doesn't exist; NOT
-  `schedulingType: "notification"`, Buffer rejects that for LinkedIn). This lands as a Buffer
-  draft, nothing live, until Liza queues and sends it herself. `lights-on-daily-digest` is what
-  reminds her these are waiting, so they don't sit for days unnoticed.
-- **Attended-only for now**: `create_post` gets denied by a permission classifier when this loop
-  fires unattended (nobody live in the conversation). Confirmed 2026-08-16: the identical call
-  works the moment Liza is actively chatting. This isn't fixable by granting a standing
-  permission, that path is blocked too. Practical effect: unattended runs draft the captions in
-  the chat report only; Buffer drafts actually get created on the next live turn. See RUN.md.
+Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blotato.
+
+- Blotato plan: Starter, active (verified 2026-10-10).
+- **Connected accounts: NONE YET.** As of 2026-10-10 `blotato_list_accounts` returns an empty
+  list. Liza needs to connect the three Lights On accounts inside Blotato before anything can be
+  scheduled. Once connected, record the ids here:
+  - LinkedIn: "Lights On Agency Qld" company page. accountId `TBD`, pageId `TBD` (company pages
+    need the pageId from the account's subaccounts, otherwise it posts to Liza's personal profile)
+  - Facebook: "Lights On QLD". accountId `TBD`, pageId `TBD` (required)
+  - Instagram: "lightsonqld". accountId `TBD`
+- Channels in scope: LinkedIn, Facebook, Instagram only. No TikTok. Do not add other platforms.
+- No 10-post cap any more. Target is still a rolling 2-3 days per channel, never a bulk dump.
+- Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the day after approval:
+  LinkedIn 7:45am, Facebook 12:15pm, Instagram 6:30pm. Change them here, not in an agent file.
+
+### Approval gate (non-negotiable)
+
+**Blotato has no draft mode for LinkedIn, Facebook or Instagram. Anything sent to
+`blotato_create_post` is either published immediately or scheduled to go live.** So the gate now
+lives in the conversation, not in the scheduling tool:
+
+1. The daily loop drafts captions and picks images, then outputs an **APPROVAL PACK** in chat.
+   It does NOT call `blotato_create_post`. Ever. Not attended, not unattended.
+2. Only when Liza explicitly approves in chat ("go", "approved", "post them", or approves
+   specific channels) does `lights-on-scheduler` schedule the approved posts in Blotato.
+3. Always schedule with `scheduledTime`. Never omit it (omitting it publishes instantly).
+4. Approval covers only the exact text Liza saw. If anything changes after approval, re-show it.
+5. Liza can pull a scheduled post before it fires: `blotato_list_schedules` then
+   `blotato_delete_schedule`.
+
+### Images
+
+Drive files stay private. After approval, the scheduler downloads the chosen Drive image,
+uploads it to Blotato with `blotato_create_presigned_upload_url` (raw bytes via HTTP PUT), and
+attaches the returned `publicUrl` in `mediaUrls`. That makes the image reachable only via
+Blotato's own URL, at the moment it is being published publicly anyway. Do not change Drive
+sharing settings. Instagram cannot post text-only, so an Instagram draft without an image is not
+approvable: flag it.
 
 ## Content library (Google Drive)
 
@@ -158,6 +177,5 @@ summary rather than generating an off-brand placeholder.
 
 ## Cadence
 
-Daily. The loop tops up Buffer's queue once a day rather than batching a week at a time, both
-because of the 10-post cap and because it lets the strategist react to genuinely new material
+Daily. The loop prepares one approval pack a day rather than batching a week at a time, because it lets the strategist react to genuinely new material
 (a new cohort photo, a new placement) instead of pre-writing a week of content that goes stale.

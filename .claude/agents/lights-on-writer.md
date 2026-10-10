@@ -45,4 +45,4 @@ IMAGE: [Drive file id/name]
 
 Keep each caption tight: LinkedIn/Facebook 80-150 words, Instagram 50-100 words. One clear idea per post, not three angles mashed together. Every single post must contain a CTA, this account does not post without one. **Every single post must also end with 3-5 hashtags, no exceptions** — industry-relevant ones (#ScreenTraining #InclusiveCasting #BrandPartnerships #QueenslandFilm style), never the inspiration-porn ones banned in STRATEGY.md (#overcome, #brave, #warrior). A caption without hashtags is an incomplete draft, don't hand it off that way.
 
-Hand your three drafts to the lights-on-scheduler agent.
+Return your three drafts for the APPROVAL PACK. They go to Liza for approval in chat, not straight to the scheduler. Instagram must carry an image (Instagram cannot post text-only), so never return "TEXT ONLY" for Instagram: name a Drive image or flag that one is needed.
