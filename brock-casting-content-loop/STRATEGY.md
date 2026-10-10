@@ -73,6 +73,16 @@ contracts: they are not content sources. Do not mine them for posts.
 Anything not on this list (a booking, a credit, a number): flag it as unconfirmed in the pack,
 never invent or round it.
 
+## Cross promotion: the casting director is always named (Liza's rule, 2026-10-10)
+
+Whenever a post mentions a casting director in the room (in training, on set, in a session,
+reading the monitor, giving notes), name her: **Liza Brock, Casting Director at Brock Casting
+Services**. Never "a casting director" or "our casting director" unnamed. On Instagram also tag
+**@brockcasting**. This is deliberate cross promotion between Lights On and Brock Casting; on Brock Casting posts about Lights On or
+any session, the casting director is still named this way.
+It overrides "champion others, not herself" for this one case: naming who is in the room is a
+fact, not a boast.
+
 ## Voice (from `brock-casting-brand`, non-negotiable)
 
 - Warm, bold, direct, fun, industry insider who brings people in.
