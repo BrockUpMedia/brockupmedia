@@ -16,7 +16,7 @@ Liza's explicit yes in chat.** Blotato has no draft mode, so the loop never call
    BROCK CASTING APPROVAL PACK [date]
    Angle: [pillar + hook]
 
-   LINKEDIN (BROCK CASTING SERVICES page), goes out [day] 8:15am Brisbane
+   LINKEDIN (BROCK CASTING SERVICES page), goes out [day] 12:15pm Brisbane
    [full caption]
 
    FACEBOOK (Brock Casting Services Brisbane), goes out [day] 6pm Brisbane

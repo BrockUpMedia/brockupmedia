@@ -31,7 +31,9 @@ Same Blotato workspace as Lights On (verified 2026-10-10).
 
 - 3 posts a week per channel: Monday, Wednesday, Friday. One idea per post day, written
   natively for each channel.
-- Times (Australia/Brisbane, UTC+10, no daylight saving): LinkedIn 8:15am, Facebook 6pm.
+- Times (Australia/Brisbane, UTC+10, no daylight saving): LinkedIn 12:15pm, Facebook 6pm, on the
+  same post day. The pack lands around 6am, so this leaves the morning to approve. If approval
+  comes after a slot has passed, schedule that channel for the next post day instead.
 - Change these here, not in an agent file.
 
 ### Approval gate (non-negotiable)
