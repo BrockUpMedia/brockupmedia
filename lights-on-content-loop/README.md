@@ -1,7 +1,7 @@
 # Lights On content loop
 
-An automated system that plans, writes, and queues Lights On brand-partnership social content
-to Buffer, on a daily loop, without turning into content-for-content's-sake.
+An automated system that plans and writes Lights On brand-partnership social content daily,
+then schedules it in Blotato once Liza approves it, without turning into content-for-content's-sake.
 
 ## How it's structured
 
@@ -13,20 +13,20 @@ Four sub-agents, each with one job, chained in order:
 2. **`lights-on-writer`** (`.claude/agents/lights-on-writer.md`) — turns that angle into three
    platform-native captions (LinkedIn, Facebook, Instagram), each carrying the correct call to
    action for that platform, in Lights On's brand voice.
-3. **`lights-on-scheduler`** (`.claude/agents/lights-on-scheduler.md`) — checks Buffer's queue
-   against the account's 10-post cap and submits what fits as pending-approval (never live),
-   reporting what was skipped if anything was.
-4. **`lights-on-daily-digest`** (`.claude/agents/lights-on-daily-digest.md`) — checks everything
-   sitting in draft or pending-approval in Buffer, today's and any left over from before, and
-   produces the reminder that tells Liza what needs her to press send.
+3. **`lights-on-daily-digest`** (`.claude/agents/lights-on-daily-digest.md`) — checks Blotato
+   for what's scheduled to go live, what published, what failed, and whether the accounts are
+   still connected.
+4. **`lights-on-scheduler`** (`.claude/agents/lights-on-scheduler.md`) — runs only after Liza
+   approves the day's APPROVAL PACK in chat. Uploads the Drive image to Blotato and schedules
+   each approved post with an explicit time.
 
-Nothing this system writes goes live on its own. Every post lands in Buffer as
-pending-approval, Liza is the one who sends it. That's what the digest agent is for: making sure
-those pending posts don't sit unnoticed.
+Nothing this system writes goes live on its own. Blotato has no draft mode for LinkedIn,
+Facebook or Instagram, so the approval gate lives in the chat: the daily run ends with an
+approval pack, and nothing reaches Blotato until Liza says go.
 
-`STRATEGY.md` is the shared brief all three read: the CTA URL, the Buffer channel and cap
-details, the content library folder ids, the locked facts they're not allowed to invent beyond,
-and the brand voice rules. Update it there and all three agents pick up the change on their next
+`STRATEGY.md` is the shared brief all four read: the CTA URL, the Blotato account ids,
+posting times and approval rules, the content library folder ids, the locked facts they're not allowed to invent beyond,
+and the brand voice rules. Update it there and all four agents pick up the change on their next
 run.
 
 `RUN.md` is the entry point: the exact steps for one day's loop, in order.
@@ -34,17 +34,15 @@ run.
 ## The loop
 
 A scheduled Routine fires into a dedicated session once a day and sends it the instruction in
-`RUN.md`. That session has this repo checked out, so the three agents and the strategy brief are
-right there. Each run: pick an angle, write three drafts, queue what the Buffer cap allows,
-report back.
+`RUN.md`. That session has this repo checked out, so the four agents and the strategy brief are
+right there. Each run: pick an angle, write three drafts, check Blotato status, post the
+approval pack. Liza replies "go" and the scheduler books the approved posts.
 
 ## Why it's not just "post daily on autopilot"
 
-The Buffer plan on this account caps out at 10 scheduled posts total. Posting daily across all
-three channels would try to queue faster than that cap allows within a week. The scheduler tops
-up a rolling 2-3 day buffer per channel instead of batching ahead, and the strategist will skip a
-day rather than force a filler post when there's nothing genuine to say. If you want a heavier
-cadence, the Buffer plan needs to move first, that's a real ceiling, not a setting in this repo.
+The strategist will skip a day rather than force a filler post when there's nothing genuine to
+say, and every post waits for Liza's yes. The aim is fewer, better partner-facing posts, not
+volume.
 
 ## Keeping it accurate
 
