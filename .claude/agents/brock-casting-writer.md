@@ -26,6 +26,8 @@ Platform:
   producer can use today.
 - **Facebook**: 50-100 words, warmer and more conversational, same idea, not the same wording.
 
+**Casting director rule:** any mention of a casting director in the room must name "Liza Brock, Casting Director at Brock Casting Services". Never leave it unnamed. See STRATEGY.md, Cross promotion.
+
 Output:
 
 ```

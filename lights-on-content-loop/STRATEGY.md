@@ -125,7 +125,8 @@ These are for the strategist's context, not for pulling images from.
 - Cohort structure: Pilot (5, completed), Cohort 2 (6, completed), Cohort 3 (6, launching Sept
   2026). Standard cohort size from Cohort 2 onward is 6. 2027 target: 4+ cohorts, 40+ cumulative
   participants is a 2027 target, never present as current.
-- Program length: 8 weeks, on-camera, with a casting director and APAC's Head of Acting (Sean
+- Program length: 8 weeks, on-camera, with Liza Brock (Casting Director, Brock Casting
+  Services) and APAC's Head of Acting (Sean
   Dennehy).
 - Confirmed proof points, the ONLY placements to cite: Harry Edmonds (Queensland Government),
   Alex Buchanan (City of Gold Coast), Breanna Swan (Human Nature documentary commercial).
@@ -146,6 +147,15 @@ These are for the strategist's context, not for pulling images from.
 
 For anything not listed here (a new placement, a new MOU, updated cohort numbers), the writer
 agent must flag it as unconfirmed rather than invent or round it.
+
+## Cross promotion: the casting director is always named (Liza's rule, 2026-10-10)
+
+Whenever a post mentions a casting director in the room (in training, on set, in a session,
+reading the monitor, giving notes), name her: **Liza Brock, Casting Director at Brock Casting
+Services**. Never "a casting director" or "our casting director" unnamed. On Instagram also tag
+**@brockcasting**. This is deliberate cross promotion between Lights On and Brock Casting.
+It overrides "champion others, not herself" for this one case: naming who is in the room is a
+fact, not a boast.
 
 ## Voice and punctuation (from `lights-on-brand`)
 
