@@ -109,6 +109,21 @@ Do not guess who is pictured in any of these. No name is confirmed from the phot
 post needs to name someone, that name must come from STRATEGY.md's locked facts, not an assumption
 about who's in a photo.
 
+**Cohort 2 headshots, Instagram-ready (added 2026-10-13):** "CH_2_instagram_size (Unzipped
+Files)" `1M-T_yPtIZdCwvMumKqR5h5P-6NTgx42s`. Sixteen PNGs, already 1080x1350 (4:5) and upright, so
+they need no rotating, cropping or borders. Professional studio portraits on a grey backdrop, with
+no Lights On text bar. As of 13 Oct these shots had not yet been used in any scheduled post:
+`1.png` (graduate in red glasses, standing, full length), `2.png` (two graduates reading scripts,
+light background; good for program or behind-the-scenes posts), `4.png` (graduate in a bright
+jersey, playful hand frame), `5.png` (graduate in green, arms folded), `7.png` (character shot,
+chocolate on face, orange backdrop; strong scroll stopper) and `10.png` (graduate seated, brown
+cardigan). The others repeat headshots already in the queue. Do not name anyone pictured unless
+Liza supplies the name.
+
+The headshots already scheduled (2:3 with a "LIGHTS ON" bar) are too tall for Instagram. Before
+posting any 2:3 image to Instagram, pad it to 4:5 with near-black `#0D0D0D` side borders. Never
+crop it, because cropping cuts off the brand bar.
+
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
   for current cohort content)
