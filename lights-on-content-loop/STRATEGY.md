@@ -46,7 +46,11 @@ Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blot
   The strategist must check `blotato_list_schedules` and not stack new posts on days that
   already have one per channel.
 - Channels in scope: LinkedIn, Facebook, Instagram only. No TikTok. Do not add other platforms.
-- No 10-post cap any more. Target is still a rolling 2-3 days per channel, never a bulk dump.
+- **Post every day on every channel (Liza, 2026-10-13).** LinkedIn, Facebook and Instagram each
+  get one post a day. Each run, check `blotato_list_schedules` and draft only for days in the
+  next 3 that have no post on that channel yet. Never stack two posts on one channel on one day.
+- **This loop is the only place posts get made from now on** (Liza, 2026-10-13). Posts already
+  in the Blotato queue from earlier chats stay as they are; the loop fills the gaps around them.
 - Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the next free day after
   approval: LinkedIn 7:45am, Facebook 6pm, Instagram 6pm (matching the times Liza already uses). Change them here, not in an agent file.
 
