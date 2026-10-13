@@ -34,7 +34,10 @@ Read back the exact arguments before sending. If any check fails, do not call th
    `mcp__Google_Drive__download_file_content` into a fresh scratch directory, call
    `blotato_create_presigned_upload_url` with the filename, then
    `curl -sS -X PUT "<presignedUrl>" --data-binary "@<file>"` (raw bytes, no JSON, no multipart).
-   Use the returned `publicUrl` in `mediaUrls`. Never change Drive sharing settings.
+   Before uploading, fix the rotation: phone photos store "rotate me" as an EXIF tag, and
+   Instagram ignores it, so the photo posts sideways (confirmed 2026-10-13). Run
+   `python3 -c "from PIL import Image, ImageOps; im=ImageOps.exif_transpose(Image.open('IN')); im.convert('RGB').save('OUT', quality=92)"`
+   and upload OUT, not the original. Use the returned `publicUrl` in `mediaUrls`. Never change Drive sharing settings.
    Instagram requires an image. If it has none, skip Instagram and report it.
 2. **Time.** Use the approved time if Liza gave one, otherwise the default for that channel in
    STRATEGY.md, on the next day, converted from Australia/Brisbane (UTC+10) to UTC ISO 8601.
