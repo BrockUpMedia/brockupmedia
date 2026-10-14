@@ -185,6 +185,23 @@ fact, not a boast.
   inspiration-porn hashtags (#overcome, #brave, #warrior).
 - No posed-charity photography framing, no medical language.
 
+## Accessibility checklist (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
+
+Lights On is disability-led, so every post has to be accessible. A draft that fails any of
+these is incomplete.
+
+1. **Alt text on every image.** 1 to 2 sentences on the overall image and what it represents,
+   plus any text on the image written out word for word. Describe what is there, never use
+   medical or pity language. Blotato only takes alt text for Instagram (`altText`). For
+   LinkedIn and Facebook, the pack flags that Liza can add it in the native app if she wants it.
+2. **Hashtags in Camel Case** (#ScreenTraining, never #screentraining), so screen readers
+   read them as words.
+3. **Colour contrast at least 4.5:1** on any graphic. The brand pairs pass: `#FFD600` on
+   `#0D0D0D` and `#FFFFFF` on `#1A1A1A`. Never yellow text on white, never grey on charcoal.
+4. **Sans serif type only** on graphics. Poppins and Livvic both qualify.
+5. **Captions on every video.** Closed captions in a sans serif typeface, on a contrasting
+   neutral background, no wider than about two thirds of the screen.
+
 ## Visual identity (from `lights-on-brand`, non-negotiable on every post)
 
 Every Lights On post must carry this identity. Call the `lights-on-brand` skill directly if

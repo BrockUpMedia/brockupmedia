@@ -96,6 +96,14 @@ fact, not a boast.
   #BrisbaneFilm #Brisbane2032. Work SEO terms in naturally where they fit: casting director
   Brisbane, casting agency Queensland, inclusive casting Australia.
 
+## Accessibility (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
+
+- Hashtags in Camel Case (#CastingDirector, never #castingdirector), so screen readers read them.
+- If an image is ever added: 1 to 2 sentences of alt text, plus any text on the image written
+  out. On graphics, use colour contrast of at least 4.5:1 and sans serif type only.
+- Every video carries closed captions in a sans serif typeface, on a contrasting neutral
+  background, no wider than about two thirds of the screen.
+
 ## Content pillars (client-facing framing)
 
 1. **Industry insight.** Generous, practical casting know-how for producers and brands: how to

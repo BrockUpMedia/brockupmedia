@@ -46,7 +46,8 @@ Read back the exact arguments before sending. If any check fails, do not call th
    - LinkedIn: `pageId` of the Lights On Studio company page (133063933) (without it, it posts to
      Liza's personal profile).
    - Facebook: `pageId` (required).
-   - Instagram: nothing extra for a single-image feed post.
+   - Instagram: `altText` set to the approved ALT TEXT (accessibility rule, never skip it).
+     Blotato has no alt text field for LinkedIn or Facebook, so note that in the report.
    Never use `useNextFreeSlot` and never omit `scheduledTime`.
 4. If the result is not `scheduled`, check `blotato_get_post_status` once and report the error.
    Do not retry a failed submission blindly.

@@ -39,11 +39,15 @@ IMAGE: [Drive file id/name to use, or "TEXT ONLY" if none fits]
 ## FACEBOOK
 [caption text, CTA link inline]
 IMAGE: [Drive file id/name]
+ALT TEXT: [1-2 sentences, plus any on-image text written out]
 
 ## INSTAGRAM
 [caption text, ends with link-in-bio CTA]
 IMAGE: [Drive file id/name]
+ALT TEXT: [1-2 sentences, plus any on-image text written out]
 ```
+
+Follow the accessibility checklist in STRATEGY.md on every post: alt text for every image, and every hashtag in Camel Case (#InclusiveCasting, never #inclusivecasting).
 
 Keep each caption tight: LinkedIn/Facebook 80-150 words, Instagram 50-100 words. One clear idea per post, not three angles mashed together. Every single post must contain a CTA, this account does not post without one. **Every single post must also end with 3-5 hashtags, no exceptions** — industry-relevant ones (#ScreenTraining #InclusiveCasting #BrandPartnerships #QueenslandFilm style), never the inspiration-porn ones banned in STRATEGY.md (#overcome, #brave, #warrior). A caption without hashtags is an incomplete draft, don't hand it off that way.
 
