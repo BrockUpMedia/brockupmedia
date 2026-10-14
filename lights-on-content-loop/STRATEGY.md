@@ -47,8 +47,9 @@ Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blot
   already have one per channel.
 - Channels in scope: LinkedIn, Facebook, Instagram only. No TikTok. Do not add other platforms.
 - **Post every day on every channel (Liza, 2026-10-13).** LinkedIn, Facebook and Instagram each
-  get one post a day. Each run, check `blotato_list_schedules` and draft only for days in the
-  next 3 that have no post on that channel yet. Never stack two posts on one channel on one day.
+  get one post a day. Each weekly run, check `blotato_list_schedules` and draft only for days in
+  Tuesday through next Monday that have no post on that channel yet. Never stack two posts on one
+  channel on one day.
 - **This loop is the only place posts get made from now on** (Liza, 2026-10-13). Posts already
   in the Blotato queue from earlier chats stay as they are; the loop fills the gaps around them.
 - Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the next free day after
@@ -60,7 +61,8 @@ Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blot
 `blotato_create_post` is either published immediately or scheduled to go live.** So the gate now
 lives in the conversation, not in the scheduling tool:
 
-1. The daily loop drafts captions and picks images, then outputs an **APPROVAL PACK** in chat.
+1. The weekly loop drafts captions and picks images, then outputs an **APPROVAL PACK** in chat,
+   with a proof sheet of the actual images. Liza signs off on the images as well as the words.
    It does NOT call `blotato_create_post`. Ever. Not attended, not unattended.
 2. Only when Liza explicitly approves in chat ("go", "approved", "post them", or approves
    specific channels) does `lights-on-scheduler` schedule the approved posts in Blotato.
@@ -235,5 +237,7 @@ summary rather than generating an off-brand placeholder.
 
 ## Cadence
 
-Daily. The loop prepares one approval pack a day rather than batching a week at a time, because it lets the strategist react to genuinely new material
-(a new cohort photo, a new placement) instead of pre-writing a week of content that goes stale.
+Weekly (Liza, 2026-10-14). One pack every Monday at 6:52am Brisbane covers Tuesday through next
+Monday, with a push notification, and a Monday 4:47pm push nudge only if she hasn't replied. If genuinely
+new material lands midweek (a new partner, a booking), raise it in chat as a one-off swap rather
+than waiting a week.
