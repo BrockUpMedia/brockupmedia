@@ -1,62 +1,76 @@
-# Daily content loop: what to run
+# Weekly content loop: what to run
 
-This is the prompt the scheduled Routine sends once a day. If you're running it manually, follow
-the same steps.
+This is the prompt the scheduled Routine sends once a week, on Monday at 6:52am Brisbane (Liza
+switched from daily to weekly on 2026-10-14). If you're running it manually, follow the same steps.
 
 **Nothing gets published without Liza's explicit approval in chat. Ever.** Blotato has no draft
-mode for LinkedIn, Facebook or Instagram: any `blotato_create_post` call goes live. So the daily
+mode for LinkedIn, Facebook or Instagram: any `blotato_create_post` call goes live. So the weekly
 loop never calls it. It produces an APPROVAL PACK and stops. Scheduling only happens on a live
 turn where Liza has said yes. (On 2026-08-16 the old Buffer loop published two posts she never
 saw. This rule exists so that never happens again.)
 
-## Daily steps (attended or unattended)
+**Liza signs off on every image, not just the words** (Liza, 2026-10-14). The pack always shows
+her the actual photos, upright and cropped as they will post.
 
-0. `git pull` in this repo first. STRATEGY.md gets edited in place when facts change.
-1. Run `lights-on-strategist`. It returns one angle brief (pillar, hook, source, avoid).
-2. Pass that brief to `lights-on-writer`. It returns LinkedIn, Facebook and Instagram drafts,
-   each with the platform-correct CTA, hashtags and an IMAGE line.
-3. Run `lights-on-daily-digest` for the Blotato status (scheduled, failed, disconnected).
-4. Output the **APPROVAL PACK**, which is the thing Liza actually reads:
+## Weekly steps (attended or unattended)
+
+0. `git pull` in this repo first. STRATEGY.md and PLAYBOOK.md get edited in place when facts change.
+1. Check `blotato_list_schedules` for Tuesday through next Monday. List the empty slots:
+   each day and channel (LinkedIn, Facebook, Instagram) with no post yet.
+2. For each day with empty slots, run `lights-on-strategist` with that day's PLAYBOOK theme, then
+   pass its brief to `lights-on-writer`. Each returns drafts with CTA, Camel Case hashtags, an
+   IMAGE line and an ALT TEXT line. Never reuse an image within the week.
+3. Run `lights-on-daily-digest` for last week's status (published, failed, disconnected).
+4. **Image proof sheet.** Download every chosen Drive image into a fresh scratch folder, fix the
+   rotation (`ImageOps.exif_transpose`), apply the Instagram crop or padding rule, then build ONE
+   contact sheet JPEG: each image as a thumbnail labelled with its number, day and channel
+   (e.g. "3. Tue LinkedIn"). Send it with `SendUserFile` (display: render) so Liza sees exactly
+   what will post.
+5. Output the **WEEKLY APPROVAL PACK**, numbered to match the proof sheet:
 
    ```
-   LIGHTS ON APPROVAL PACK [date]
-   Angle: [pillar + hook]
+   LIGHTS ON WEEKLY PACK, Tue [date] to Mon [date]
+   Already booked: [day, channel, one line each]
 
-   LINKEDIN, goes out [default time] Brisbane
+   1. TUE LINKEDIN, [time] Brisbane. Theme: [playbook theme]
    [full caption]
-   Image: [Drive file name]
-
-   FACEBOOK, goes out [default time] Brisbane
-   [full caption]
-   Image: [Drive file name]
-
-   INSTAGRAM, goes out [default time] Brisbane
-   [full caption]
-   Image: [Drive file name]
+   Image 1: [Drive file name]   Alt text: [alt text]
+   ...
 
    Digest: [one line headline]
-   Reply "go" to schedule all three, or approve/edit specific channels.
+   Reply "go" to schedule all, or approve/edit by number, e.g. "go, swap image 4, hold 6".
    ```
 
-Do NOT run `lights-on-scheduler` as part of the daily steps.
+6. Send ONE push notification with `PushNotification`: "Weekly posts ready to approve: [n] posts,
+   Tue to Mon. Reply go in Claude." Nothing posts until she replies.
+
+Do NOT run `lights-on-scheduler` as part of the weekly steps.
+
+## Monday afternoon nudge
+
+If the 4:47pm Monday reminder run finds the morning pack still unanswered in chat, send one push:
+"Reminder: this week's posts are waiting for your OK. Tuesday's go out tomorrow morning." Say
+which posts would miss their time if not approved tonight. If the pack
+was already answered, do nothing and say nothing.
 
 ## On approval (live turn only)
 
-When Liza replies approving the pack (all of it or specific channels, with or without edits):
+When Liza replies approving the pack (all of it or specific numbers, with or without edits):
 
-1. Apply any edits she asked for. If an edit is more than trivial, show the final text again
-   and get a yes before scheduling.
-2. Run `lights-on-scheduler` with only the approved posts. It uploads the Drive image to Blotato
-   and schedules each post with an explicit `scheduledTime`.
-3. Report one line per channel: scheduled time and image, or what was skipped.
+1. Apply any edits she asked for. If she swaps an image, show the new image before scheduling.
+   If a text edit is more than trivial, show the final text again and get a yes.
+2. Run `lights-on-scheduler` with only the approved posts. It uploads the image to Blotato
+   and schedules each post with an explicit `scheduledTime`, plus `altText` on Instagram.
+3. Report one line per post: scheduled time and image, or what was skipped. Any slot whose time
+   has already passed moves to the next free slot for that channel, and the report says so.
 
-If a pack from an earlier day was never approved, ask before scheduling it, the content may be
+If a pack from an earlier week was never approved, ask before scheduling it, the content may be
 stale.
 
-## When to skip the day entirely
+## When to leave a slot empty
 
-If the strategist can't find a genuine hook, skip and say so. A missed day is fine, a
-content-for-content's-sake post is not.
+If the strategist can't find a genuine hook for a day, leave it empty and say so. A gap is fine,
+a content-for-content's-sake post is not.
 
 ## If something's broken
 

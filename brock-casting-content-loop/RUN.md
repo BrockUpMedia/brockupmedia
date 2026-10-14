@@ -1,10 +1,13 @@
 # Brock Casting content loop: what to run
 
-Runs Monday, Wednesday and Friday. Same approval rule as Lights On: **nothing goes live without
+Runs weekly on Monday morning with the Lights On pack (since 2026-10-14), drafting that week's
+Wednesday and Friday and the next Monday's posts in one go: run the steps below once per post day with no post yet,
+and put all of them in one BROCK CASTING section of the weekly pack, after Lights On. Text only,
+so no images to sign off. Same approval rule as Lights On: **nothing goes live without
 Liza's explicit yes in chat.** Blotato has no draft mode, so the loop never calls
 `blotato_create_post`.
 
-## Post-day steps (attended or unattended)
+## Steps per post day (attended or unattended)
 
 0. `git pull` in this repo.
 1. Run `brock-casting-strategist`. It returns one angle brief.
