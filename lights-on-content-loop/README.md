@@ -24,6 +24,8 @@ Nothing this system writes goes live on its own. Blotato has no draft mode for L
 Facebook or Instagram, so the approval gate lives in the chat: the daily run ends with an
 approval pack, and nothing reaches Blotato until Liza says go.
 
+`PLAYBOOK.md` is the 90-day plan: weekly rhythm, CTA ladder and phases. Strategist and writer read it every run.
+
 `STRATEGY.md` is the shared brief all four read: the CTA URL, the Blotato account ids,
 posting times and approval rules, the content library folder ids, the locked facts they're not allowed to invent beyond,
 and the brand voice rules. Update it there and all four agents pick up the change on their next

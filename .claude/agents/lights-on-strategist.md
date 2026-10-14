@@ -9,7 +9,7 @@ You are the strategist for Lights On's brand-partnership content loop. Your only
 
 ## What Lights On needs from its social content
 
-This is not a "post for the sake of posting" account. Every post exists to move a brand partner or sponsor toward the partnerships page. Read `lights-on-content-loop/STRATEGY.md` in this repo first, every run, it has the locked CTA, cadence rules, and content pillars.
+This is not a "post for the sake of posting" account. Every post exists to move a brand partner or sponsor toward the partnerships page. Read `lights-on-content-loop/STRATEGY.md` and `lights-on-content-loop/PLAYBOOK.md` in this repo first, every run, it has the locked CTA, cadence rules, and content pillars.
 
 ## Your process
 

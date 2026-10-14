@@ -46,7 +46,11 @@ Buffer is retired. Do not call any Buffer tool. Publishing now runs through Blot
   The strategist must check `blotato_list_schedules` and not stack new posts on days that
   already have one per channel.
 - Channels in scope: LinkedIn, Facebook, Instagram only. No TikTok. Do not add other platforms.
-- No 10-post cap any more. Target is still a rolling 2-3 days per channel, never a bulk dump.
+- **Post every day on every channel (Liza, 2026-10-13).** LinkedIn, Facebook and Instagram each
+  get one post a day. Each run, check `blotato_list_schedules` and draft only for days in the
+  next 3 that have no post on that channel yet. Never stack two posts on one channel on one day.
+- **This loop is the only place posts get made from now on** (Liza, 2026-10-13). Posts already
+  in the Blotato queue from earlier chats stay as they are; the loop fills the gaps around them.
 - Default posting times (Australia/Brisbane, UTC+10, no daylight saving), the next free day after
   approval: LinkedIn 7:45am, Facebook 6pm, Instagram 6pm (matching the times Liza already uses). Change them here, not in an agent file.
 
@@ -104,6 +108,21 @@ writer agent's tools can't open images, so these written descriptions (checked v
 Do not guess who is pictured in any of these. No name is confirmed from the photo alone, if a
 post needs to name someone, that name must come from STRATEGY.md's locked facts, not an assumption
 about who's in a photo.
+
+**Cohort 2 headshots, Instagram-ready (added 2026-10-13):** "CH_2_instagram_size (Unzipped
+Files)" `1M-T_yPtIZdCwvMumKqR5h5P-6NTgx42s`. Sixteen PNGs, already 1080x1350 (4:5) and upright, so
+they need no rotating, cropping or borders. Professional studio portraits on a grey backdrop, with
+no Lights On text bar. As of 13 Oct these shots had not yet been used in any scheduled post:
+`1.png` (graduate in red glasses, standing, full length), `2.png` (two graduates reading scripts,
+light background; good for program or behind-the-scenes posts), `4.png` (graduate in a bright
+jersey, playful hand frame), `5.png` (graduate in green, arms folded), `7.png` (character shot,
+chocolate on face, orange backdrop; strong scroll stopper) and `10.png` (graduate seated, brown
+cardigan). The others repeat headshots already in the queue. Do not name anyone pictured unless
+Liza supplies the name.
+
+The headshots already scheduled (2:3 with a "LIGHTS ON" bar) are too tall for Instagram. Before
+posting any 2:3 image to Instagram, pad it to 4:5 with near-black `#0D0D0D` side borders. Never
+crop it, because cropping cuts off the brand bar.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
