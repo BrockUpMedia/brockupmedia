@@ -107,6 +107,11 @@ writer agent's tools can't open images, so these written descriptions (checked v
 - `20260331_182436.jpg` — **skip this one.** Badly framed candid, blocked by someone's leg in the
   foreground, only a partial view of one person. Not usable as a post image as-is.
 
+**Liza's headshot (Liza, 2026-10-15): always use `assets/liza-brock-headshot-glasses.jpg`** in
+this repo (black blazer, tortoiseshell glasses, grey backdrop) whenever a post on any page shows
+Liza. She wears glasses, so never use her older headshots without them. Crop to 4:5 from the top
+for feeds.
+
 Do not guess who is pictured in any of these. No name is confirmed from the photo alone, if a
 post needs to name someone, that name must come from STRATEGY.md's locked facts, not an assumption
 about who's in a photo.

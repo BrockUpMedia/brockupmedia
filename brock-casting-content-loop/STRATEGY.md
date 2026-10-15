@@ -96,6 +96,11 @@ fact, not a boast.
   #BrisbaneFilm #Brisbane2032. Work SEO terms in naturally where they fit: casting director
   Brisbane, casting agency Queensland, inclusive casting Australia.
 
+## Liza's headshot (2026-10-15)
+
+If a post ever shows Liza, use `assets/liza-brock-headshot-glasses.jpg` (she wears glasses, so
+never an older headshot without them).
+
 ## Accessibility (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
 
 - Hashtags in Camel Case (#CastingDirector, never #castingdirector), so screen readers read them.
