@@ -101,6 +101,11 @@ fact, not a boast.
 If a post ever shows Liza, use `assets/liza-brock-headshot-glasses.jpg` (she wears glasses, so
 never an older headshot without them).
 
+## Commercial timelines (Liza, 2026-10-19)
+
+Commercial casting moves in days, not weeks. Never suggest clients book four to six weeks out.
+Expo posts carry: "Register free to attend: https://brisbanedisabilityexpo.com.au/attend-expo/"
+
 ## Accessibility (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
 
 - Hashtags in Camel Case (#CastingDirector, never #castingdirector), so screen readers read them.
