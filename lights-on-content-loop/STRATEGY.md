@@ -174,6 +174,16 @@ These are for the strategist's context, not for pulling images from.
 For anything not listed here (a new placement, a new MOU, updated cohort numbers), the writer
 agent must flag it as unconfirmed rather than invent or round it.
 
+## Liza's rules from 2026-10-19 (override anything above)
+
+- **Liza Brock is Program Director of Lights On.** On Lights On posts write "Liza Brock, Program
+  Director of Lights On and Casting Director at Brock Casting Services". Never "co-director".
+- **Name only indelarts and APAC as partners** in public posts. Do not name Inclusively Made or
+  Creative Brisbane Collab.
+- **Expo posts always carry the sign-up link**: "Register free to attend:
+  https://brisbanedisabilityexpo.com.au/attend-expo/" on LinkedIn and Facebook, and "Register
+  free via the link in our bio." on Instagram.
+
 ## Cross promotion: the casting director is always named (Liza's rule, 2026-10-10)
 
 Whenever a post mentions a casting director in the room (in training, on set, in a session,
