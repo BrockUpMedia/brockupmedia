@@ -180,6 +180,11 @@ agent must flag it as unconfirmed rather than invent or round it.
   Director of Lights On and Casting Director at Brock Casting Services". Never "co-director".
 - **Name only indelarts and APAC as partners** in public posts. Do not name Inclusively Made or
   Creative Brisbane Collab.
+- **Tag the Expo on every Expo post** (organiser's request): Instagram `@disability_expos` (add as
+  a collaborator via Blotato `collaborators`, and mention in the caption), Facebook page "Brisbane
+  Disability Expo", LinkedIn "Impact Institute". Blotato cannot create linked mentions on Facebook
+  or LinkedIn, so flag those for Liza to tag in the app. Official tile:
+  `assets/brisbane-disability-expo-2026-tile.jpg`.
 - **Expo posts always carry the sign-up link**: "Register free to attend:
   https://brisbanedisabilityexpo.com.au/attend-expo/" on LinkedIn and Facebook, and "Register
   free via the link in our bio." on Instagram.
