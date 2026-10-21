@@ -9,6 +9,13 @@ Single source of truth for `brock-casting-strategist`, `brock-casting-writer`,
 "I want Liza casting this" and email her. Not talent recruitment, not general awareness. If a
 day's angle can't give a client a genuine reason to get in touch, skip the day.
 
+## Positioning (Liza, 2026-10-21)
+
+Inclusive by design, but Brock Casting casts everything: commercials, TV, film, brand and real
+people. Most producers and agency people already have a casting director, so posts build awareness
+and show range so Liza is front of mind for the next brief. Never frame Brock Casting as only an
+inclusive or disability casting service.
+
 ## Call to action
 
 **Every post ends with a direct email ask to `hello@brockcasting.com.au`.** Phrase it as an

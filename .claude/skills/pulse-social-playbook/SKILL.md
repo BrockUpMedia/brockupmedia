@@ -38,9 +38,13 @@ These are working profiles drafted from the strategy files. Liza confirms or cor
   skills and friendships, find their tribe and grow in confidence while learning. Posts for Jess
   show belonging as much as training: friendships in the room, laughter, wins, confidence growing
   week by week.
-- **Brock Casting client: Tom, 38, producer at a Brisbane agency or production company.** The
-  brief landed today and the client wants options by Friday. Checks LinkedIn at midday. Wants a
-  casting director with a ready network who makes the job easy.
+- **Brock Casting client: Tom, 38, producer, advertising agency creative or production
+  marketing manager** (confirmed by Liza, 2026-10-21). Checks LinkedIn at midday. He already has
+  a casting director he uses, so the job is not to sell him today: it is to make him aware of
+  Liza and keep her front of mind for the next brief. Position: **inclusive by design, but Brock
+  Casting casts everything** (commercials, TV, film, brand, real people). Posts for Tom show range
+  and speed across every kind of job, with inclusion as how Liza works, never a niche she is
+  limited to. Win the second call, not the first.
 
 Find better answers from real data, monthly: comments and DMs (their words become caption words),
 follower insights (age, location, active hours via `blotato_get_post_analytics` and the native
