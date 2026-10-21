@@ -110,6 +110,8 @@ keeps growing with fresh, real content. Each item says what to shoot and how:
   READY TO POST, and Liza adds the music and posts from the Instagram app (shared to Facebook).
   Mood: positive, uplifting, "never give up" energy. Full steps in
   `lights-on-content-loop/STRATEGY.md`.
+- **Every Reel cut follows `REEL-EDIT.md`** in this skill folder: edit like one of the best film
+  editors in the world, building the story, cuts and music lift to move people.
 
 Reels get the most reach, so aim for at least one Reel a week on Lights On Instagram once Liza
 has footage. Until then, photos from Drive.
