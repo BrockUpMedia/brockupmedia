@@ -141,6 +141,15 @@ anything she doesn't want used into that week's **Do not post** subfolder (Wk 8:
 Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets a Do
 not post subfolder. Ignore the raw .MTS camera folders for social.
 
+**Reel audio (Liza, 2026-10-21): every Reel gets upbeat music, never the original audio.** Strip
+the clip sound completely and lay one licensed upbeat track under the cut. Tracks come only from
+"REEL MUSIC (licensed, upbeat)" `11JL8DD1f_Os9xXTuQMWr0uCL__wn-EXv` in the Lights On master
+folder, never from a commercial song (Blotato posts through the API, so Instagram's in-app music
+library is not available and copyrighted songs get muted or blocked). Burned in captions carry
+the story since there is no speech: open with "[Upbeat music]" for screen reader and Deaf
+viewers, then short on-screen text lines. Rotate tracks so the same one doesn't run two weeks in
+a row.
+
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
   for current cohort content)
