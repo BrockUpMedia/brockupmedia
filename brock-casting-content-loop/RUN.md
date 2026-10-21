@@ -9,7 +9,8 @@ Liza's explicit yes in chat.** Blotato has no draft mode, so the loop never call
 
 ## Steps per post day (attended or unattended)
 
-0. `git pull` in this repo.
+0. `git pull` in this repo. Follow the `pulse-social-playbook` skill for buckets, the dream
+   customer (Tom), three hooks per post, one CTA and the engagement round.
 1. Run `brock-casting-strategist`. It returns one angle brief.
 2. Pass it to `brock-casting-writer`. It returns a LinkedIn and a Facebook draft, text only.
 3. Run `brock-casting-daily-digest` for Blotato status on the Brock Casting pages.

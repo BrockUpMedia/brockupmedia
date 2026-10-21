@@ -4,7 +4,8 @@ Both routines fire **into Liza's existing Claude Code session** (the one that bu
 not a fresh session. That session already has the Blotato and Google Drive connectors and this
 repo, which a fresh routine session did not carry over.
 
-- **"Weekly content packs (Lights On + Brock Casting)"**: Monday 6:52am Australia/Brisbane.
+- **"Weekly social pack (Pulse playbook, all channels)"**: Monday 6:52am Australia/Brisbane. Runs
+  the `pulse-social-playbook` skill over every post.
   Follows `lights-on-content-loop/RUN.md` and `brock-casting-content-loop/RUN.md` for Tuesday
   through next Monday, sends the image proof sheet and the approval pack, then a push notification.
   (Was daily at 5:52am until 2026-10-14.)

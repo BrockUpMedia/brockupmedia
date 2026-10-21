@@ -14,7 +14,10 @@ her the actual photos, upright and cropped as they will post.
 
 ## Weekly steps (attended or unattended)
 
-0. `git pull` in this repo first. STRATEGY.md and PLAYBOOK.md get edited in place when facts change.
+0. `git pull` in this repo first. Then load the `pulse-social-playbook` skill
+   (`.claude/skills/pulse-social-playbook/SKILL.md`) and follow its weekly pack checklist for every
+   post: bucket, dream customer, three hooks, one CTA, links checked, plus the engagement round,
+   shot list, proof ask, idea bank and last week's numbers at the end of the pack. STRATEGY.md and PLAYBOOK.md get edited in place when facts change.
 1. Check `blotato_list_schedules` for Tuesday through next Monday. List the empty slots:
    each day and channel (LinkedIn, Facebook, Instagram) with no post yet.
 2. For each day with empty slots, run `lights-on-strategist` with that day's PLAYBOOK theme, then
@@ -54,6 +57,9 @@ which posts would miss their time if not approved tonight. If the pack
 was already answered, do nothing and say nothing.
 
 ## On approval (live turn only)
+
+Engagement replies from the pack are posted with `blotato_post_comment` only for the numbers
+Liza approves, exactly as she saw them.
 
 When Liza replies approving the pack (all of it or specific numbers, with or without edits):
 
