@@ -134,13 +134,12 @@ crop it, because cropping cuts off the brand bar.
 **Cohort 3 BTS and media consent (Liza, 2026-10-21).** Every cohort signs a media release before
 starting. Weekly BTS lands in "CH3_WK-LESSON_1_8" `1BojLl5Y51vE0hgfn8yEE0uCBpBfU_gNX`, one folder
 per week (e.g. CH3_WK8_BTS `1G7DU2d6NjAoSyg4DUtvtHKpAVRo5iT5C`, vertical 1080x1920 phone clips
-and 3000x4000 photos). Liza sorts each week's files into two subfolders:
-- **Social OK** (Wk 8: `1pwk7d2DpO6QP9ffLg0aDz5g-AM9jWP2z`): the only place to pull BTS from.
-- **Do not post** (Wk 8: `1hS4xlF-NMXoNqQP-MBI0LkhcH-QrMJSB`): never use.
-Anything still unsorted in the week folder is not cleared. Names come only from the sheet
+and 3000x4000 photos). Everything sitting loose in a week folder is free to post. Liza moves
+anything she doesn't want used into that week's **Do not post** subfolder (Wk 8:
+`1hS4xlF-NMXoNqQP-MBI0LkhcH-QrMJSB`); never use anything inside it. Names come only from the sheet
 "Cohort 3 media consent" `1v5F6vwC_Oz5yw4dvN-7-1BpKFXiXGH751d1AYfiQ91c` (OK to show, OK to name,
-Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets the
-same two subfolders. Ignore the raw .MTS camera folders for social.
+Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets a Do
+not post subfolder. Ignore the raw .MTS camera folders for social.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
