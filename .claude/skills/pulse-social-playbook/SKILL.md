@@ -105,9 +105,11 @@ keeps growing with fresh, real content. Each item says what to shoot and how:
 - Showcase: move slow, mix wide and close, a few extra seconds at each end for trimming.
 - Photos: take ten, keep one, candid beats posed, light edit only.
 - Afterwards: auto-captions in CapCut or Descript (captions are mandatory, see accessibility).
-- **Reels: upbeat music only, never the original audio** (Liza, 2026-10-21). Use a licensed
-  track from the REEL MUSIC folder (see `lights-on-content-loop/STRATEGY.md`) and caption with
-  on-screen text plus "[Upbeat music]". Mood: positive, uplifting, "never give up" energy.
+- **Reels: upbeat music only, never the original audio** (Liza, 2026-10-21). Music comes from
+  Instagram's own library, so Reels skip Blotato: cut a silent captioned version, drop it in REELS
+  READY TO POST, and Liza adds the music and posts from the Instagram app (shared to Facebook).
+  Mood: positive, uplifting, "never give up" energy. Full steps in
+  `lights-on-content-loop/STRATEGY.md`.
 
 Reels get the most reach, so aim for at least one Reel a week on Lights On Instagram once Liza
 has footage. Until then, photos from Drive.

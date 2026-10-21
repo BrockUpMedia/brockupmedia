@@ -141,18 +141,25 @@ anything she doesn't want used into that week's **Do not post** subfolder (Wk 8:
 Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets a Do
 not post subfolder. Ignore the raw .MTS camera folders for social.
 
-**Reel audio (Liza, 2026-10-21): every Reel gets upbeat music, never the original audio.** Strip
-the clip sound completely and lay one licensed upbeat track under the cut. Tracks come only from
-"REEL MUSIC (licensed, upbeat)" `11JL8DD1f_Os9xXTuQMWr0uCL__wn-EXv` in the Lights On master
-folder, never from a commercial song (Blotato posts through the API, so Instagram's in-app music
-library is not available and copyrighted songs get muted or blocked). Burned in captions carry
-the story since there is no speech: open with "[Upbeat music]" for screen reader and Deaf
-viewers, then short on-screen text lines. Rotate tracks so the same one doesn't run two weeks in
-a row. Mood (Liza, 2026-10-21): positive, uplifting and motivating, music that says "keep going,
-never give up": building piano or strings into a driving beat, warm pop, anthemic. Not sad, not
-sentimental, not cheesy. The music carries the feeling; the captions still follow the voice rules
-(never "brave", "inspiring" or "overcome" about participants). Show progress and confidence, let
-the music lift it.
+**Reel audio (Liza, 2026-10-21): every Reel gets upbeat music from Instagram's own library, never
+the original audio.** Blotato posts through the API and cannot add Instagram music, so Reels never
+go through Blotato. Instead:
+1. Cut the Reel here: original sound stripped completely, vertical 1080x1920, best shot first, a
+   bold text hook on screen in the first second, short on-screen text lines, and a "[Upbeat
+   music]" caption at the start for screen reader and Deaf viewers.
+2. Upload the silent cut to "REELS READY TO POST" `1RiH4DvGOPME1MrUNCN51Zb_iORmnmSEC` in the
+   Lights On master folder, with the approved caption, hashtags, collaborators and a suggested
+   music mood in the pack.
+3. Liza posts it from the Instagram app on @lightsonqld: adds a track from Instagram's music
+   library, ticks "Share to Facebook" so the Lights On QLD page gets it with the same music, and
+   posts or schedules it there. Flag it in the push notification so it doesn't get missed.
+4. LinkedIn never gets the Reel (no Instagram music there); use photos for the Studio page.
+Instagram business accounts only get the commercial-use music library, so suggest a mood, not a
+specific chart song. Mood (Liza, 2026-10-21): positive, uplifting and motivating, music that says
+"keep going, never give up": building piano or strings into a driving beat, warm pop, anthemic.
+Not sad, not sentimental, not cheesy. The music carries the feeling; the captions still follow
+the voice rules (never "brave", "inspiring" or "overcome" about participants). Show progress and
+confidence, let the music lift it.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
