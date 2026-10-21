@@ -27,12 +27,17 @@ YouTube (accountId 52989) is connected but unused. Do not post to it until Liza 
 Every post is written to ONE of these people. Name them in the pack ("Written for: Dana").
 These are working profiles drafted from the strategy files. Liza confirms or corrects them.
 
-- **Lights On partner: Dana, 42, Head of Brand or CSR at a Queensland company.** Has budget and
+- **Lights On partner: Dana, 42, Head of Brand or Community Investment at a Queensland
+  company** (confirmed by Liza, 2026-10-21). Has budget and
   a 2032 inclusion target, is scared of tokenism and of getting disability representation wrong
   in public. Scrolls LinkedIn at 7 to 8am and at lunch. Wants proof, safety and a simple way in.
-- **Lights On community: Jess, 35, parent or support worker of a young adult with disability.**
-  On Facebook and Instagram in the evening. Wants real pathways into screen work and to see
-  people like her family member on camera, treated as professionals.
+- **Lights On community: Jess, 35, parent, carer or support worker of a young adult with
+  disability** (confirmed by Liza, 2026-10-21). On Facebook and Instagram in the evening. Wants
+  real pathways into screen work and to see people like her person on camera, treated as
+  professionals. Just as important: she wants a community for her person, somewhere they build
+  skills and friendships, find their tribe and grow in confidence while learning. Posts for Jess
+  show belonging as much as training: friendships in the room, laughter, wins, confidence growing
+  week by week.
 - **Brock Casting client: Tom, 38, producer at a Brisbane agency or production company.** The
   brief landed today and the client wants options by Friday. Checks LinkedIn at midday. Wants a
   casting director with a ready network who makes the job easy.
