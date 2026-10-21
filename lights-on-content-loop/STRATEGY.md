@@ -148,7 +148,11 @@ folder, never from a commercial song (Blotato posts through the API, so Instagra
 library is not available and copyrighted songs get muted or blocked). Burned in captions carry
 the story since there is no speech: open with "[Upbeat music]" for screen reader and Deaf
 viewers, then short on-screen text lines. Rotate tracks so the same one doesn't run two weeks in
-a row.
+a row. Mood (Liza, 2026-10-21): positive, uplifting and motivating, music that says "keep going,
+never give up": building piano or strings into a driving beat, warm pop, anthemic. Not sad, not
+sentimental, not cheesy. The music carries the feeling; the captions still follow the voice rules
+(never "brave", "inspiring" or "overcome" about participants). Show progress and confidence, let
+the music lift it.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
