@@ -179,6 +179,8 @@ confidence, let the music lift it.
 "great for Instagram"): .MTS camera clips (COHORT2_nn.MTS, 000nn.MTS) and Warren_Milo.mp4. Same
 rules: no original audio, no teaching content. It also holds "LIGHTS_ON_8 week course pdf.pdf",
 the curriculum: never use it or quote it in any post.
+**"Cohort 2 _WK 6 No sound"** `1hR_UTPmWZcQKZVpvlwk39TbcEz2Tqkng` (Liza, 2026-10-22, "great
+footage"): small .MTS clips (20 to 50MB) from 2 July, Week 6, already silent. Ready for a Reel.
 
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
