@@ -166,7 +166,15 @@ Older subfolders (check only if the primary folder doesn't have something that f
   for current cohort content)
 - "Lights On BRAND" — `1Vvc8vU31wNIfANI7se5lP6R2gZav9LeC` (logos, brand assets)
 - "LIGHTS ON MARKETING" — `1FfMi2YscHjDrOTn6sk1iTh9zUuoStVFx`
-- "00_1_Cohort 1 Social Media" — `17NDnWbtPX8JvREjQxHqOpiDN5ec0FmgN`
+- "00_1_Cohort 1 Social Media" — `17NDnWbtPX8JvREjQxHqOpiDN5ec0FmgN`. Liza cleared it for use
+  (2026-10-22). Holds 8 finished vertical teaching shorts from Cohort 1 (720x1280, made in
+  Vizard with word-by-word captions and spoken audio): "The Secret to Great Camera Acting:
+  Stillness", "When to Disclose on a Film Set", "Understanding the Hierarchy on a Film Set",
+  "POV Acting Mistakes: Staring at Blank Walls", "One Shot Table Jump Challenge", "Don't mess
+  with a parent protecting their child", "A Hilarious Horse Riding Audition Fail" (v2 is an
+  identical duplicate). Strong Educate content. Before reposting, trim the "vizard.ai" end card
+  (last 2 to 3s). Don't name the tutor from the footage alone. Two raw W07 wides (31 Mar) are too
+  distant to be useful.
 - "LO_IMAGES_EDIT" — `1Qs9O3JjwyasvpjH7EiZjUExvEA5ql0bL`
 
 Strategy/partnership source documents also live in Drive (search `fullText contains 'Lights On'`):
