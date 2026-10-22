@@ -27,7 +27,7 @@ Lights On that feeling is "keep going, never give up": growth, belonging, confid
    whole group together) exactly where the music lifts or drops. Hold it longer than feels safe,
    1.5 to 2.5s. This shot is why the Reel exists.
 4. **Resolve, last 3 to 5s:** slow down, one or two held shots, a closing text line and the
-   brand end card (dark `#0D0D0D`, yellow `#FFD600`). End on a clean beat so the loop restarts
+   brand end card (dark `#0D0D0D`, yellow `#FFD600`): "LIGHTS ON", "Inclusive by design", "@lightsonqld". End on a clean beat so the loop restarts
    smoothly; Reels replay, so the last frame should flow into the first.
 
 ## Cutting rules

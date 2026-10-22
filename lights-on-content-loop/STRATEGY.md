@@ -146,6 +146,9 @@ the original audio.** **Never keep spoken audio, ever (Liza, 2026-10-22), not ev
 clips or interviews.** Strip all original sound. When the words matter (a tip, a line of advice),
 they go on screen as full sentence captions, never word by word flashes, timed to be read twice.
 
+**Video title line: "Inclusive by design" (Liza, 2026-10-22).** Every Lights On video end card and
+title reads "Inclusive by design", never "disability-led". Full footage list: FOOTAGE.md.
+
 **Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
 what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
 actor or tutor voices. Teaching footage is used only as behind the scenes atmosphere (the room,
