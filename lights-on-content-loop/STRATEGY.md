@@ -143,26 +143,8 @@ not post subfolder. Ignore the raw .MTS camera folders for social.
 
 **Reel audio (Liza, 2026-10-21): every Reel gets upbeat music from Instagram's own library, never
 the original audio.** **Never keep spoken audio, ever (Liza, 2026-10-22), not even on teaching
-clips or interviews.** Strip all original sound. When the words matter (a tip, a line of advice),
-they go on screen as full sentence captions, never word by word flashes, timed to be read twice.
-
-**Video title line: "Inclusive by design" (Liza, 2026-10-22).** Every Lights On video end card and
-title reads "Inclusive by design", never "disability-led". Liza extended this to everything the
-same day: all copy, captions and hashtags use "inclusive by design" (#InclusiveByDesign), never
-"disability-led" or #DisabilityLed. Full footage list: FOOTAGE.md.
-
-**Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
-what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
-actor or tutor voices. Teaching footage is used only as behind the scenes atmosphere (the room,
-focus, laughter, people on their feet, the camera rolling), with captions about the experience and
-the people, never the lesson. Educate posts draw on Liza's casting expertise and industry insight,
-not the Lights On curriculum.
-
-**Footage credit (Liza, 2026-10-22).** Carolina at Carioca (carioca.au) shot the Cohort 1 pro BTS
-and wants to be tagged on every post that uses her footage. Credit Carioca on Cohort 1 footage
-only, never on any other cohort (Liza, 2026-10-22). On those posts tag her (Instagram collaborator or tag, and a
-"Footage: Carioca" credit line elsewhere). Instagram handle: ASK LIZA, not yet confirmed. Some
-Cohort 1 footage is Liza's own phone footage; no credit needed on those. Blotato posts through the API and cannot add Instagram music, so Reels never
+clips or interviews.** Strip all original sound. Any words on screen are full sentence captions,
+never word by word flashes, timed to be read twice. Blotato posts through the API and cannot add Instagram music, so Reels never
 go through Blotato. Instead:
 1. Cut the Reel here: original sound stripped completely, vertical 1080x1920, best shot first, a
    bold text hook on screen in the first second, short on-screen text lines, and a "[Upbeat
@@ -180,6 +162,24 @@ specific chart song. Mood (Liza, 2026-10-21): positive, uplifting and motivating
 Not sad, not sentimental, not cheesy. The music carries the feeling; the captions still follow
 the voice rules (never "brave", "inspiring" or "overcome" about participants). Show progress and
 confidence, let the music lift it.
+
+**Video title line: "Inclusive by design" (Liza, 2026-10-22).** Every Lights On video end card and
+title reads "Inclusive by design", never "disability-led". Liza extended this to everything the
+same day: all copy, captions and hashtags use "inclusive by design" (#InclusiveByDesign), never
+"disability-led" or #DisabilityLed. Full footage list: FOOTAGE.md.
+
+**Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
+what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
+actor or tutor voices. Teaching footage is used only as behind the scenes atmosphere (the room,
+focus, laughter, people on their feet, the camera rolling), with captions about the experience and
+the people, never the lesson. Educate posts draw on Liza's casting expertise and industry insight,
+not the Lights On curriculum.
+
+**Footage credit (Liza, 2026-10-22).** Carolina at Carioca (carioca.au) shot the Cohort 1 pro BTS
+and wants to be tagged on posts that use her footage. Credit Carioca on Cohort 1 footage only,
+never on any other cohort. On those posts: Instagram collaborator or tag, and a "Footage: Carioca"
+credit line elsewhere. Instagram handle: ASK LIZA, not yet confirmed. Some Cohort 1 footage is
+Liza's own phone footage; no credit on those.
 
 **Hero photo (Liza, 2026-10-22, "I love this picture, use this in our social posts"):**
 `assets/lights-on-commercial-set-bts.jpg` (9:16 phone photo). Two participants at a high table with

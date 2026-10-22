@@ -48,7 +48,7 @@ Lights On that feeling is "keep going, never give up": growth, belonging, confid
 ## Text and captions
 
 - Original audio is always stripped, spoken audio included, ever (Liza, 2026-10-22), so on-screen
-  text carries the story. On teaching clips the advice becomes full sentence captions. Open with "[Upbeat
+  text carries the story. Never reveal the teaching: captions describe the experience and the people, never the lesson. Open with "[Upbeat
   music]" for Deaf and screen reader viewers.
 - Three to five short text lines in total, each on screen long enough to read twice (about 1.5s
   per five words). Sans serif, high contrast, on a neutral band, no wider than about two thirds of
