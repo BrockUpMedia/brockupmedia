@@ -126,8 +126,10 @@ has footage. Until then, photos from Drive.
 
 ## Step 7: Consistency and engagement
 
-- Keep the cadence each brand's STRATEGY.md sets (Lights On daily on every channel by Liza's
-  choice, Brock Casting Mon, Wed, Fri). Note from the playbook: three solid posts a week beat ten
+- Keep the cadence each brand's STRATEGY.md sets (Lights On about three a week per channel,
+  Brock Casting Mon, Wed, Fri). Liza, 2026-10-22: "We can post less often if the content is
+  better." Every post must name its dream customer (Dana, Jess or Tom) and speak to what that
+  person wants; a post that serves nobody in particular is cut, not scheduled. Note from the playbook: three solid posts a week beat ten
   then nothing. If quality slips, recommend fewer, better posts rather than filling slots.
 - **Engagement is half the job.** Each Monday pack includes an **Engagement round**: pull the
   last week's comments with `blotato_list_comments` on published posts, and draft a reply for

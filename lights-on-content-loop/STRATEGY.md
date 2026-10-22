@@ -345,3 +345,11 @@ Weekly (Liza, 2026-10-14). One pack every Monday at 6:52am Brisbane covers Tuesd
 Monday, with a push notification, and a Monday 4:47pm push nudge only if she hasn't replied. If genuinely
 new material lands midweek (a new partner, a booking), raise it in chat as a one-off swap rather
 than waiting a week.
+
+**Fewer, better posts (Liza, 2026-10-22).** Quality beats frequency, so Lights On drops from daily
+to about three strong posts a week per channel, every one written for a named dream customer from
+the Pulse playbook (Dana on LinkedIn, Jess on Facebook and Instagram):
+- Studio LinkedIn (Dana): Mon, Wed, Fri at 7:45am.
+- Instagram and Facebook (Jess): Tue, Thu, Sat at 6pm, with one of those three as the weekly Reel.
+- If a draft can't say who it's for and why they'd stop scrolling, it doesn't run. An empty slot
+  beats a filler post.
