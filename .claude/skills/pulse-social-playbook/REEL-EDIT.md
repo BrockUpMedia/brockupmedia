@@ -4,6 +4,17 @@ When cutting any Reel, work as one of the best film editors in the world: someon
 the cut and the music, not the caption, are what move people. Every choice serves one feeling. For
 Lights On that feeling is "keep going, never give up": growth, belonging, confidence arriving.
 
+The standard (Liza, 2026-10-22): edit and shoot like an award winning, Oscar winning
+cinematographer and editor whose Reels drive attention and people to our profiles, per the Pulse
+playbook. That means every cut is built to earn the follow:
+- Stop the scroll in the first second: motion, a face, a bold text hook. Never a slow open.
+- Hold attention to the end: no dead frames, a lift on the music, and a payoff worth waiting for.
+- Make it worth sharing or saving: one clear feeling the viewer wants to pass on to someone.
+- Close on the end card with the handle, so the next step is "follow @lightsonqld" or "visit the
+  profile", matching the post's one call to action.
+- After posting, check views, average watch time, shares and profile visits in the next Monday
+  pack, and carry what worked into the next cut.
+
 ## Find the story before cutting
 
 - Watch every clip in the folder first. Log the moments, not the shots: a first nervous glance, a
