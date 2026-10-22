@@ -178,7 +178,8 @@ Older subfolders (check only if the primary folder doesn't have something that f
 - Cohort 1 professional BTS, shot by Carolina (carioca.au), cleared by Liza 2026-10-22:
   Day 1 (17 Feb) "00_1_1_1_BTS" `1vsT9hTfltTCKzkWzXSlmRCf5PC7SAzbT` (Canon 4K HEVC 50fps
   landscape .MP4 plus CR3 raws) and Day 2 (24 Feb) "00_1_1_day2_BTS"
-  `1Z0JHuUiFOQT-e10ZugrXz-zTqbitfinb` (61 .mov clips). Files run up to 23GB, so never download
+  `1Z0JHuUiFOQT-e10ZugrXz-zTqbitfinb` (61 .mov clips) and Day 3 (3 Mar) "LIGHTS ON DAY 3"
+  `1GnwyWUtg7FeEZ5K8b4sUYYYDTWteLJtU` (CR3 raws and more). Files run up to 23GB, so never download
   whole: read frames and cut segments remotely with ffmpeg (`-http_proxy "$HTTPS_PROXY" -ca_file
   /root/.ccr/ca-bundle.crt`, drive.usercontent.google.com URL). Landscape, so Reels need a 9:16
   crop or pan. A shot log lives with the session scratch work, rebuild it if missing.
