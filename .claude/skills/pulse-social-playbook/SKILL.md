@@ -133,6 +133,9 @@ has footage. Until then, photos from Drive.
   last week's comments with `blotato_list_comments` on published posts, and draft a reply for
   each one in the brand's voice. Replies are only posted after Liza approves them by number
   (`blotato_post_comment`). Flag any DM or comment that is a lead.
+- **No repeats (Liza, 2026-10-22):** the same proof point, stat or headline message runs at most
+  once a fortnight per channel. Check the queue (`blotato_list_schedules`) and last week's posts
+  before drafting, and pick a fresh angle if it's already out there.
 - Never run out of ideas: keep a running idea bank at the bottom of each pack (5 ideas, one line
   each, tagged by bucket).
 
