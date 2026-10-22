@@ -233,7 +233,8 @@ These are for the strategist's context, not for pulling images from.
   Media Pty Ltd). Co-directed by Liza Brock and Breanna Swan.
 - Lights On Agency = brand partnerships and content agency, NOT a talent agency. Never call it one.
 - Cohort 3 wrapped in October 2026 (Liza, 2026-10-22). **Cohort 4 is open, with a waitlist.**
-  Waitlist link: ASK LIZA, not yet confirmed.
+  Waitlist link: https://www.brockcasting.com.au/lights-on-brisbane (Liza, 2026-10-22). This is
+  the main call to action for Jess posts (Instagram: "Join the waitlist via the link in our bio.").
 - Cohort structure: Pilot (5, completed), Cohort 2 (6, completed), Cohort 3 (6, launching Sept
   2026). Standard cohort size from Cohort 2 onward is 6. 2027 target: 4+ cohorts, 40+ cumulative
   participants is a 2027 target, never present as current.
