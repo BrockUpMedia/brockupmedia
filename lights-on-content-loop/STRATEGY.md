@@ -142,7 +142,9 @@ Instagram handle). Name or tag someone only where OK to name is Y. Each new week
 not post subfolder. Ignore the raw .MTS camera folders for social.
 
 **Reel audio (Liza, 2026-10-21): every Reel gets upbeat music from Instagram's own library, never
-the original audio.** Blotato posts through the API and cannot add Instagram music, so Reels never
+the original audio.** **Never keep spoken audio, ever (Liza, 2026-10-22), not even on teaching
+clips or interviews.** Strip all original sound. When the words matter (a tip, a line of advice),
+they go on screen as full sentence captions, never word by word flashes, timed to be read twice. Blotato posts through the API and cannot add Instagram music, so Reels never
 go through Blotato. Instead:
 1. Cut the Reel here: original sound stripped completely, vertical 1080x1920, best shot first, a
    bold text hook on screen in the first second, short on-screen text lines, and a "[Upbeat
