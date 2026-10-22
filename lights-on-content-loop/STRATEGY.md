@@ -175,6 +175,11 @@ Not sad, not sentimental, not cheesy. The music carries the feeling; the caption
 the voice rules (never "brave", "inspiring" or "overcome" about participants). Show progress and
 confidence, let the music lift it.
 
+**Cohort 2 footage "CH2_WARREN_DEMPSTER"** `1wFyWCz0t5N3UN80CDdjMlroSAtsHEsRN` (Liza, 2026-10-22,
+"great for Instagram"): .MTS camera clips (COHORT2_nn.MTS, 000nn.MTS) and Warren_Milo.mp4. Same
+rules: no original audio, no teaching content. It also holds "LIGHTS_ON_8 week course pdf.pdf",
+the curriculum: never use it or quote it in any post.
+
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
   for current cohort content)
