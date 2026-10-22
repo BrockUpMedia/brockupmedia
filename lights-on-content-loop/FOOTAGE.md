@@ -24,6 +24,10 @@ yet reviewed.
 | Cohort 2 _WK 6 No sound | `1hR_UTPmWZcQKZVpvlwk39TbcEz2Tqkng` | 2 July, small silent .MTS clips (20 to 50MB) | New |
 | STREAM / CH2 Wk 6(no sound) | `1wWWJAqFeEc6veFy_vcVjv3pVvl9r8YZw` | 26 clips CH2_WK6_01 to 26.MTS, 2.5GB, silent | New |
 | STREAM (loose files) | `1geZyK-FH5SkhdKjfj5eZb4-Uoh80gy5J` | 27 clips STREAM_01 to 27.MTS, 2.7GB, cohort and week not in the names | New |
+| **CH_2_WK-1_8 (parent of all CH2_Week folders)** | `1_wqw_f7_Du3FH5KZGkJoryr7uXamG-FJ` | Weeks 2, 3, 4, 5, 8 and more as subfolders. Sharing this one folder by link covers them all. | |
+| CH2_Week 4 | `1rWlyzT3wyjBMWA6nVOitiE_ix-yOhKCh` | 18 June, phone photos (3 to 5MB) | New |
+| CH2_Week 5 | `1f-tCHGjHgQjkLRoRiyTXkrnEXfEVfnY4` | Holds COHORT_2_WK_5_camera (below) | New |
+| CH2_Week 8 | `12RCOBAEmxR7uOGXMoYi9VD-v8qGUSlN6` | Not yet listed | New |
 | CH2_Week 2 | `14t5yBkYHSMgZtpEeqIRsdqrlo7UcIrvR` | Week 2 camera clips CH2_WK2_nn.MTS (about 160 to 260MB each) | New |
 | STREAM / COHORT_2_WK 2 | `13dzTEM0xPG7TIsCA4HFOTpSEIbhiItcy` | Empty (Week 2 footage is in CH2_Week 2 above) | |
 | CH2_Week 3 | `18tb6Xf0sKQKh7INUBCnxrB8K0uAuGWtR` | Week 3 camera clips CH2_WK3_nn.MTS (up to about 750MB each) | New |
