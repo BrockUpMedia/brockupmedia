@@ -49,3 +49,21 @@ yet reviewed.
 
 - `assets/lights-on-commercial-set-bts.jpg`: hero photo, Liza on a commercial set (see STRATEGY.md).
 - "CLAUDE SOCIAL MEDIA COHORT !" `1vZtL_KFrADBhGaMK-a5Demwz5rP5ej4W`: main photo library.
+
+## Cohort story videos (Liza, 2026-10-22)
+
+Liza wants a video like the Week 8 Reel for every cohort, for social and the Lights On website.
+Each one follows `.claude/skills/pulse-social-playbook/REEL-EDIT.md` (no original audio, no
+teaching content, "Inclusive by design" end card) and is delivered in two cuts:
+- 9:16 vertical (about 30s) for Instagram and Facebook, music added by Liza in the Instagram app.
+- 16:9 horizontal (45 to 60s) for the website, silent with burned in captions (website video
+  autoplays muted). A licensed track can be added later if Liza wants sound on the site.
+
+| Cohort | Story | Footage | Status |
+|---|---|---|---|
+| Cohort 1 (pilot) | Where it started: a real professional set, and three of five went on to paid work | Carioca Days 1 to 3 (credit Carioca), Week 7 STREAM clips, Liza's phone clips | Waiting on Drive quota, retry 23 Oct |
+| Cohort 2 | Eight weeks from first read to headshots | CH_2_WK-1_8 Weeks 2 to 8, STREAM, Week 6 silent clips, Warren's folder | Needs CH_2_WK-1_8 shared by link |
+| Cohort 3 | The full eight weeks, ending on Week 8 headshot day | CH3_WK-LESSON_1_8 Weeks 1 to 8 | Week 8 Reel posted 22 Oct; full cohort cut to build |
+
+Drive rule learnt the hard way: pull footage gently (two files at a time, ranged reads via
+scratch `c1pro/scripts/rproxy.py`), or Google blocks anonymous downloads for about a day.
