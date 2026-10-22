@@ -144,7 +144,19 @@ not post subfolder. Ignore the raw .MTS camera folders for social.
 **Reel audio (Liza, 2026-10-21): every Reel gets upbeat music from Instagram's own library, never
 the original audio.** **Never keep spoken audio, ever (Liza, 2026-10-22), not even on teaching
 clips or interviews.** Strip all original sound. When the words matter (a tip, a line of advice),
-they go on screen as full sentence captions, never word by word flashes, timed to be read twice. Blotato posts through the API and cannot add Instagram music, so Reels never
+they go on screen as full sentence captions, never word by word flashes, timed to be read twice.
+
+**Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
+what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
+actor or tutor voices. Teaching footage is used only as behind the scenes atmosphere (the room,
+focus, laughter, people on their feet, the camera rolling), with captions about the experience and
+the people, never the lesson. Educate posts draw on Liza's casting expertise and industry insight,
+not the Lights On curriculum.
+
+**Footage credit (Liza, 2026-10-22).** Carolina at Carioca (carioca.au) shot the Cohort 1 pro BTS
+and wants to be tagged on every post that uses her footage (Instagram collaborator or tag, and a
+"Footage: Carioca" credit line elsewhere). Instagram handle: ASK LIZA, not yet confirmed. Some
+Cohort 1 footage is Liza's own phone footage; no credit needed on those. Blotato posts through the API and cannot add Instagram music, so Reels never
 go through Blotato. Instead:
 1. Cut the Reel here: original sound stripped completely, vertical 1080x1920, best shot first, a
    bold text hook on screen in the first second, short on-screen text lines, and a "[Upbeat
@@ -174,7 +186,8 @@ Older subfolders (check only if the primary folder doesn't have something that f
   Stillness", "When to Disclose on a Film Set", "Understanding the Hierarchy on a Film Set",
   "POV Acting Mistakes: Staring at Blank Walls", "One Shot Table Jump Challenge", "Don't mess
   with a parent protecting their child", "A Hilarious Horse Riding Audition Fail" (v2 is an
-  identical duplicate). Strong Educate content. Before reposting, trim the "vizard.ai" end card
+  identical duplicate). Use only as behind the scenes atmosphere, never for the advice itself (see "Never give away the
+  teaching"). Before using, trim the "vizard.ai" end card
   (last 2 to 3s). Don't name the tutor from the footage alone. Two raw W07 wides (31 Mar) are too
   distant to be useful.
 - Cohort 1 professional BTS, shot by Carolina (carioca.au), cleared by Liza 2026-10-22:
