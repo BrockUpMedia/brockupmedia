@@ -177,11 +177,13 @@ confidence, let the music lift it.
 
 **Hero photo (Liza, 2026-10-22, "I love this picture, use this in our social posts"):**
 `assets/lights-on-commercial-set-bts.jpg` (9:16 phone photo). Two participants at a high table with
-a product box during a commercial scene, a woman in glasses holding the script up beside the lens,
+a product box during a commercial scene, Liza (confirmed by Liza) in glasses holding the script up
+beside the lens,
 and a man operating a 4K camera on a tripod, softbox behind. Feed crop: 4:5 at x 110, y 470,
 width 920 (1080x1350), keeps all four people and trims the floor. Use it as the go-to image for
-"a real commercial set" posts on all three channels. Don't name anyone pictured unless Liza
-supplies the names.
+"a real commercial set" posts on all three channels. Captions name her as "Liza Brock, Casting
+Director at Brock Casting Services" (tag @brockcasting on Instagram). Don't name the others
+unless Liza supplies the names.
 
 **Cohort 2 footage "CH2_WARREN_DEMPSTER"** `1wFyWCz0t5N3UN80CDdjMlroSAtsHEsRN` (Liza, 2026-10-22,
 "great for Instagram"): .MTS camera clips (COHORT2_nn.MTS, 000nn.MTS) and Warren_Milo.mp4. Same
