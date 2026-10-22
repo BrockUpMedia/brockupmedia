@@ -147,7 +147,9 @@ clips or interviews.** Strip all original sound. When the words matter (a tip, a
 they go on screen as full sentence captions, never word by word flashes, timed to be read twice.
 
 **Video title line: "Inclusive by design" (Liza, 2026-10-22).** Every Lights On video end card and
-title reads "Inclusive by design", never "disability-led". Full footage list: FOOTAGE.md.
+title reads "Inclusive by design", never "disability-led". Liza extended this to everything the
+same day: all copy, captions and hashtags use "inclusive by design" (#InclusiveByDesign), never
+"disability-led" or #DisabilityLed. Full footage list: FOOTAGE.md.
 
 **Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
 what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
@@ -226,7 +228,7 @@ These are for the strategist's context, not for pulling images from.
 
 ## Locked facts (never invent beyond this list — from the `lights-on-partnerships` skill)
 
-- Lights On = disability-led screen training initiative, inside Brock Casting (parent: Brock Up
+- Lights On = screen training initiative, inclusive by design, inside Brock Casting (parent: Brock Up
   Media Pty Ltd). Co-directed by Liza Brock and Breanna Swan.
 - Lights On Agency = brand partnerships and content agency, NOT a talent agency. Never call it one.
 - Cohort structure: Pilot (5, completed), Cohort 2 (6, completed), Cohort 3 (6, launching Sept
@@ -290,7 +292,7 @@ fact, not a boast.
 
 ## Accessibility checklist (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
 
-Lights On is disability-led, so every post has to be accessible. A draft that fails any of
+Lights On is inclusive by design, so every post has to be accessible. A draft that fails any of
 these is incomplete.
 
 1. **Alt text on every image.** 1 to 2 sentences on the overall image and what it represents,
