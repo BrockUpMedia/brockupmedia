@@ -232,6 +232,8 @@ These are for the strategist's context, not for pulling images from.
 - Lights On = screen training initiative, inclusive by design, inside Brock Casting (parent: Brock Up
   Media Pty Ltd). Co-directed by Liza Brock and Breanna Swan.
 - Lights On Agency = brand partnerships and content agency, NOT a talent agency. Never call it one.
+- Cohort 3 wrapped in October 2026 (Liza, 2026-10-22). **Cohort 4 is open, with a waitlist.**
+  Waitlist link: ASK LIZA, not yet confirmed.
 - Cohort structure: Pilot (5, completed), Cohort 2 (6, completed), Cohort 3 (6, launching Sept
   2026). Standard cohort size from Cohort 2 onward is 6. 2027 target: 4+ cohorts, 40+ cumulative
   participants is a 2027 target, never present as current.

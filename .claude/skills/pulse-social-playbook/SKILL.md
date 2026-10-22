@@ -22,6 +22,28 @@ written, shot and followed up. Never publish without Liza's "go" in chat.
 
 YouTube (accountId 52989) is connected but unused. Do not post to it until Liza says so.
 
+## Liza's heart and intention (Liza, 2026-10-22)
+
+This is why Lights On exists, in Liza's own words from her Cohort 3 wrap post. Every Lights On post
+should feel like it comes from this place, especially posts for Jess:
+
+> They haven't just learnt new skills. They've made connections, built friendships and found their
+> tribe. As a mum to a neurodivergent son, I understand how important it is to find your people.
+> To feel accepted, understood and like you belong. That's what Lights On is all about.
+> Industry-standard on-camera training, real connections and a community where you can be
+> yourself.
+
+- The three pillars to come back to: **industry-standard on-camera training, real connections, a
+  community where you can be yourself.**
+- Belonging is as important as skills. Show friendships, laughter and people being themselves,
+  not only the craft.
+- Liza's story as a mum to a neurodivergent son is hers to tell. Use it only in her own voice on
+  her personal channel or a post she signs, never as a line in a brand caption without her say-so.
+- Her voice in that post: warm, short paragraphs, plain words, one heart emoji at most, a clear
+  ask at the end ("Join the waitlist. We'd love to have you on board.").
+- Approved hashtags from her: #LightsOn #DisabilityInclusion #Neurodiversity #ScreenIndustry
+  #TrainCreateEmploy (plus #InclusiveByDesign).
+
 ## Step 1: Dream customer (write for one person)
 
 Every post is written to ONE of these people. Name them in the pack ("Written for: Dana").
