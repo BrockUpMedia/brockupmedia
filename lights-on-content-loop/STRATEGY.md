@@ -159,7 +159,8 @@ the people, never the lesson. Educate posts draw on Liza's casting expertise and
 not the Lights On curriculum.
 
 **Footage credit (Liza, 2026-10-22).** Carolina at Carioca (carioca.au) shot the Cohort 1 pro BTS
-and wants to be tagged on every post that uses her footage (Instagram collaborator or tag, and a
+and wants to be tagged on every post that uses her footage. Credit Carioca on Cohort 1 footage
+only, never on any other cohort (Liza, 2026-10-22). On those posts tag her (Instagram collaborator or tag, and a
 "Footage: Carioca" credit line elsewhere). Instagram handle: ASK LIZA, not yet confirmed. Some
 Cohort 1 footage is Liza's own phone footage; no credit needed on those. Blotato posts through the API and cannot add Instagram music, so Reels never
 go through Blotato. Instead:

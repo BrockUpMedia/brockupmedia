@@ -2,7 +2,7 @@
 
 Every video source Liza has cleared for social, by cohort. Rules for all of it (see STRATEGY.md):
 no original or spoken audio ever, no teaching content, Inclusive by design as the video title
-line, credit Carioca on her footage. Large files are read and cut remotely, never downloaded whole
+line, credit Carioca on Cohort 1 footage only (never on any other cohort). Large files are read and cut remotely, never downloaded whole
 (ffmpeg with `-http_proxy "$HTTPS_PROXY" -ca_file /root/.ccr/ca-bundle.crt` on
 `https://drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t`). That only
 works while the folder is shared "anyone with the link"; ask Liza to restrict it again after.
