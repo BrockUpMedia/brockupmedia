@@ -26,7 +26,8 @@ yet reviewed.
 | STREAM (loose files) | `1geZyK-FH5SkhdKjfj5eZb4-Uoh80gy5J` | 27 clips STREAM_01 to 27.MTS, 2.7GB, cohort and week not in the names | New |
 | CH2_Week 2 | `14t5yBkYHSMgZtpEeqIRsdqrlo7UcIrvR` | Week 2 camera clips CH2_WK2_nn.MTS (about 160 to 260MB each) | New |
 | STREAM / COHORT_2_WK 2 | `13dzTEM0xPG7TIsCA4HFOTpSEIbhiItcy` | Empty (Week 2 footage is in CH2_Week 2 above) | |
-| STREAM / COHORT_2_WK_3 | `1X4qdycs5TATvisoi6si5WhR4UfJ-DJts` | Empty | |
+| CH2_Week 3 | `18tb6Xf0sKQKh7INUBCnxrB8K0uAuGWtR` | Week 3 camera clips CH2_WK3_nn.MTS (up to about 750MB each) | New |
+| STREAM / COHORT_2_WK_3 | `1X4qdycs5TATvisoi6si5WhR4UfJ-DJts` | Empty (Week 3 footage is in CH2_Week 3 above) | |
 | COHORT_2_WK_5_camera | `1jS7CvwOhMm6G-1MS6JgO4kurUApZw9MQ` | 25 June, camera .MTS clips (000nn.MTS, up to 780MB) | New |
 | CH2_WARREN_DEMPSTER | `1wFyWCz0t5N3UN80CDdjMlroSAtsHEsRN` | .MTS clips and Warren_Milo.mp4. The curriculum PDF in here is never used. | New |
 
