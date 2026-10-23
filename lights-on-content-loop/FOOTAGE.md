@@ -32,6 +32,8 @@ yet reviewed.
 ## Cohort 3 (2026)
 
 **Never use Emma (wears glasses, no social media consent). Skip every Emma file and any shot she is in.**
+"Sharky" and "Charky" are Charlotte, one person (hair sometimes down and curly, sometimes tied
+back). Cohort 3 participants: Charlotte, Emma, Kaitlin, Maximus, Milo, Tommy.
 The rule is Emma only, not glasses. Other participants who wear glasses (Tommy Vo, for one) are
 fine to use; check it is not Emma, then use the shot (Liza, 2026-10-23).
 
