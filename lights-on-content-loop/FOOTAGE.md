@@ -68,6 +68,21 @@ fine to use; check it is not Emma, then use the shot (Liza, 2026-10-23).
 | STREAM / COHORT_1_LIGHTS ON WEEK 7 | `1N0sINTuzOGgU_iR7A2u-pCT-v5Ty92g3` | 35 clips COHORT1_WK7_01 to 35.MTS, 8.1GB | New |
 | 00_1_Cohort 1 Social Media | `17NDnWbtPX8JvREjQxHqOpiDN5ec0FmgN` | 8 finished Vizard shorts with teaching audio, plus 2 raw Week 7 wides. Use only as silent BTS atmosphere, trim the vizard.ai end card. | Logged |
 
+## Used-shots log (never cut the same footage twice, Liza 2026-10-24)
+
+Check this list before every edit or photo post and pick unused clips. Add to it once Liza
+approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
+
+| Edit | Status | Clips and stills used |
+|---|---|---|
+| Week 8 Reel (C3) | Posted 22 Oct | Week 8 phone: 171923 171946 174101 174911 175249 180557 180653 181739 182756 182928 183037 183736 183855 |
+| Cohort 4 open Reel | Approved, Tue 27 Oct | Week 8 phone: 171923 172010 174537 175854 181657 181956 182204 182314 183525 191138 |
+| Cohort 2 video | Approved, Reel Tue 3 Nov | CH2_WK2_02 _11 _15, CH2_WK3_05, 20260611_190319, 20260618_190349, 20260618_192028, 00072, 00087, CH2_WK6_13 _21, STREAM_27, 2R9A3434_branded, 2R9A3670_branded |
+| Cohort 3 video | Awaiting approval | Max_Chat_Wk1, Kaitlin_Newsreader_TK3, Tommy_Chat_2, Charlotte_NewsReader_TK2, Milo_NewsReader_tk2, WK3_Charolotte_7ways (2), Wk3_Tom_7ways, WK3_Kaitlin_7ways, WK3_Kaitlin_7ways (3), DSCN9690 9693 9707 9718 9720, Week 8 phone 175350 180629 181908 183844 |
+| Cohort 1 video | Awaiting approval | STREAM C1 Week 7 folder: 00017 00020 00023 00027 00034; Carioca stills 0Z2A0016 0017 0874 0904 0910 |
+| Week of 26 Oct photo posts | Awaiting approval | Tommy_Vo_Chat_Wk1, Max_Newsreader_1, Charolotte_Chat_2, Kaitlin_Newsreader_TK2, DSCN9691, DSCN9708, Week 8 phone 175509 |
+| Commercial set photo | Scheduled 26 Oct | assets/lights-on-commercial-set-bts.jpg |
+
 ## Stills
 
 - `assets/lights-on-commercial-set-bts.jpg`: hero photo, Liza on a commercial set (see STRATEGY.md).

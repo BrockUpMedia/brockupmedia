@@ -15,6 +15,14 @@ playbook. That means every cut is built to earn the follow:
 - After posting, check views, average watch time, shares and profile visits in the next Monday
   pack, and carry what worked into the next cut.
 
+## Never cut the same footage twice (Liza, 2026-10-24)
+
+Every Reel, video and photo post uses moments no other edit or post has used. Before cutting,
+check the used-shots log in `lights-on-content-loop/FOOTAGE.md` and pick clips (not just
+different seconds of a used clip) that are not on it. After Liza approves a cut or post, add
+every clip and still it used to the log. The website (16:9) and social (9:16) cuts of the same
+cohort video are one edit and may share shots with each other, nothing else.
+
 ## Find the story before cutting
 
 - Watch every clip in the folder first. Log the moments, not the shots: a first nervous glance, a

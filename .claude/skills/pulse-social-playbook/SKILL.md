@@ -132,6 +132,8 @@ keeps growing with fresh, real content. Each item says what to shoot and how:
   READY TO POST, and Liza adds the music and posts from the Instagram app (shared to Facebook).
   Mood: positive, uplifting, "never give up" energy. Full steps in
   `lights-on-content-loop/STRATEGY.md`.
+- **Never cut or post the same footage twice** (Liza, 2026-10-24): check the used-shots log in
+  `lights-on-content-loop/FOOTAGE.md` first and log what you use once approved.
 - **Every Reel cut follows `REEL-EDIT.md`** in this skill folder: edit like one of the best film
   editors in the world, building the story, cuts and music lift to move people.
 
