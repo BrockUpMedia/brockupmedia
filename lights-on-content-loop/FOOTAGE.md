@@ -12,7 +12,12 @@ SHOOT alongside their masters. Share a cohort folder by link as Viewer only when
 
 - Cohort 4 (Feb 2027): `C4_2027-02_COHORT 4` `1bUAkRKxXaZCIWRUBTSZj5JvNm-TwExbl`, consent sheet
   "C4 media consent" `1su4z0jC52CwcqxErqGFiiTXj8xamq7p-I8KHrO7ZlDc` (has a "Never use" column).
-- Cohorts 1 to 3: clean-up plan in progress (map first, Liza approves, then move).
+- Cohort 1: `C1_2026-02_COHORT 1` `15jpT2DlgM1F9bGhfGnsz8_WI2tBYRTWK` (weeks are Tuesdays 17 Feb to 7 Apr).
+- Cohort 2: `C2_2026-06_COHORT 2` `1KWuxP-1ETCpZgR4CDaUpMbPkoArw20Pg` (weeks are Thursdays, Wk1 28 May).
+- Cohort 3: `C3_2026-09_COHORT 3` `1AHFVwwGaaDloytUrw_MQHINmQlZOeAPP` (weeks are Tuesdays 1 Sep to 20 Oct).
+- Filed 23 Oct 2026. Second copies sit in each cohort's `zz_DUPLICATES (review)`; nothing was deleted.
+  Camera backup folders (100NIKON, STREAM) are never moved, only linked by shortcut. Carioca's
+  Cohort 1 folders stay in her "Cohort 1_" folder, linked from 10_PRO SHOOT.
 
 Every video source Liza has cleared for social, by cohort. Rules for all of it (see STRATEGY.md):
 no original or spoken audio ever, no teaching content, Inclusive by design as the video title
@@ -27,6 +32,8 @@ yet reviewed.
 ## Cohort 3 (2026)
 
 **Never use Emma (wears glasses, no social media consent). Skip every Emma file and any shot she is in.**
+The rule is Emma only, not glasses. Other participants who wear glasses (Tommy Vo, for one) are
+fine to use; check it is not Emma, then use the shot (Liza, 2026-10-23).
 
 | Folder | Id | What | Status |
 |---|---|---|---|
