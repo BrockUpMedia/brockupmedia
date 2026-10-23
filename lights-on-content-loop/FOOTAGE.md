@@ -62,7 +62,7 @@ teaching content, "Inclusive by design" end card) and is delivered in two cuts:
 | Cohort | Story | Footage | Status |
 |---|---|---|---|
 | Cohort 1 (pilot) | Where it started: a real professional set, and three of five went on to paid work | Carioca Days 1 to 3 (credit Carioca), Week 7 STREAM clips, Liza's phone clips | Waiting on Drive quota, retry 23 Oct |
-| Cohort 2 | Eight weeks from first read to headshots | CH_2_WK-1_8 Weeks 2 to 8, STREAM, Week 6 silent clips, Warren's folder | Needs CH_2_WK-1_8 shared by link |
+| Cohort 2 | Eight weeks from first read to headshots | CH_2_WK-1_8 Weeks 2 to 8, STREAM, Week 6 silent clips, Warren's folder | Cut 23 Oct: 25s 9:16 Reel and 40s 16:9 website version, awaiting approval. Footage downloaded and logged (scratch c2/shotlog.md). Avoid: clapperboard names (Week 7 STREAM_08 to 24), eating mime (Week 6 breakfast scene), readable scripts and whiteboards. |
 | Cohort 3 | The full eight weeks, ending on Week 8 headshot day | CH3_WK-LESSON_1_8 Weeks 1 to 8 | Week 8 Reel posted 22 Oct; full cohort cut to build |
 
 Drive rule learnt the hard way: pull footage gently (two files at a time, ranged reads via
