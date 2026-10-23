@@ -1,5 +1,19 @@
 # Lights On footage catalogue
 
+## Folder convention (Liza, 2026-10-23)
+
+All cohorts live in LIGHTS ON MASTER FOLDER / "🧑LIGHTS ON Cohorts" (`1Da7NURWc7W1jlIP7gL_qzWohZSpBpZnG`),
+one folder per cohort named `C<n>_<YYYY-MM>_COHORT <n>`, each with: `00_ADMIN (not for social)`
+(consent sheet, call sheets, curriculum), `01_WK01` to `08_WK08` (each with `BTS (phone)`,
+`CAMERA (raw takes, not for social)`, `DO NOT POST`), `09_HEADSHOTS`, `10_PRO SHOOT (external crew)`,
+`11_SOCIAL EDITS (approved)`, `12_WEBSITE EDITS (approved)`. Footage is uploaded straight into the
+week folder on the day (no camera card dumps). Pro crews deliver 1080p H.264 selects into 10_PRO
+SHOOT alongside their masters. Share a cohort folder by link as Viewer only when cutting.
+
+- Cohort 4 (Feb 2027): `C4_2027-02_COHORT 4` `1bUAkRKxXaZCIWRUBTSZj5JvNm-TwExbl`, consent sheet
+  "C4 media consent" `1su4z0jC52CwcqxErqGFiiTXj8xamq7p-I8KHrO7ZlDc` (has a "Never use" column).
+- Cohorts 1 to 3: clean-up plan in progress (map first, Liza approves, then move).
+
 Every video source Liza has cleared for social, by cohort. Rules for all of it (see STRATEGY.md):
 no original or spoken audio ever, no teaching content, Inclusive by design as the video title
 line, credit Carioca on Cohort 1 footage only (never on any other cohort). Large files are read and cut remotely, never downloaded whole
