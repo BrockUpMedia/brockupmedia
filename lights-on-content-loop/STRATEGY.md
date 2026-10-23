@@ -137,7 +137,10 @@ per week (e.g. CH3_WK8_BTS `1G7DU2d6NjAoSyg4DUtvtHKpAVRo5iT5C`, vertical 1080x19
 and 3000x4000 photos). Everything sitting loose in a week folder is free to post. Liza moves
 anything she doesn't want used into that week's **Do not post** subfolder (Wk 8:
 `1hS4xlF-NMXoNqQP-MBI0LkhcH-QrMJSB`); never use anything inside it. Names come only from the sheet
-"Cohort 3 media consent" `1v5F6vwC_Oz5yw4dvN-7-1BpKFXiXGH751d1AYfiQ91c` (OK to show, OK to name,
+"Cohort 3 media consent" `1v5F6vwC_Oz5yw4dvN-7-1BpKFXiXGH751d1AYfiQ91c` **NEVER use Emma (Cohort 3), on any channel,
+ever (Liza, 2026-10-22: she has not consented to social media). Emma wears glasses. Skip any
+file or folder with Emma in the name (e.g. "Emma Wk8", Emma.MTS, Emma_Chat_Singing) and any
+Cohort 3 frame where she appears; when unsure whether a person is Emma, leave the shot out.** (OK to show, OK to name,
 Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets a Do
 not post subfolder. Ignore the raw .MTS camera folders for social.
 

@@ -12,6 +12,8 @@ yet reviewed.
 
 ## Cohort 3 (2026)
 
+**Never use Emma (wears glasses, no social media consent). Skip every Emma file and any shot she is in.**
+
 | Folder | Id | What | Status |
 |---|---|---|---|
 | CH3_WK8_BTS (in CH3_WK-LESSON_1_8) | `1G7DU2d6NjAoSyg4DUtvtHKpAVRo5iT5C` | 20 Oct, 53 vertical phone clips (some 120fps) and photos: warm up, hair and makeup, headshots, outfit change, commercial product shoot. Skip the "Do not post" subfolder. | Used: Week 8 Reel (approved 22 Oct) |
