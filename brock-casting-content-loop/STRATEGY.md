@@ -64,7 +64,8 @@ is cleared for social. If Liza later sets up a cleared image folder, record its 
 
 From the `brock-casting-brand` skill:
 
-- Brock Casting Services is Queensland's only disability-led casting agency.
+- Brock Casting Services: casting that is inclusive by design (Liza, 2026-10-22: never describe it
+  as "disability-led", and don't use the old "Queensland's only disability-led casting agency" line).
 - Founder and director: Liza Brock. 30+ years in the Australian entertainment industry.
 - Brisbane-based, works nationally. Film, TV, commercial casting.
 - Tagline: "Your Story. Perfectly Cast."
