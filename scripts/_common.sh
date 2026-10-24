@@ -1,5 +1,7 @@
 # Shared settings for the video scripts. Sourced, not run.
 FF="ffmpeg -hide_banner -loglevel error -nostats -y"
+# MTS seeks print harmless decoder warnings; filter them out
+ff() { $FF "$@" 2> >(grep -v -E "reference picture|Last message repeated" >&2); }
 FP="ffprobe -v error"
 SCRIPTS="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 FONT_BOLD="$SCRIPTS/fonts/Poppins-800.ttf"

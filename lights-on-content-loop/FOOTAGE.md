@@ -34,6 +34,7 @@ yet reviewed.
 **Never use Emma (wears glasses, no social media consent). Skip every Emma file and any shot she is in.**
 "Sharky" and "Charky" are Charlotte, one person (hair sometimes down and curly, sometimes tied
 back). Cohort 3 participants: Charlotte, Emma, Kaitlin, Maximus, Milo, Tommy.
+Liza, 2026-10-24: actor Reels may name each actor on screen (first name). Week 8 clip 174313 is clear of Emma. Cohort 1 Emily's surname is Egan.
 The rule is Emma only, not glasses. Other participants who wear glasses (Tommy Vo, for one) are
 fine to use; check it is not Emma, then use the shot (Liza, 2026-10-23).
 

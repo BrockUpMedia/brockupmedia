@@ -14,4 +14,4 @@ else
   X=${X:-$((SW/2))}; CX=$(( X-CW/2 )); [ $CX -lt 0 ] && CX=0; [ $((CX+CW)) -gt $SW ] && CX=$((SW-CW))
   VF="${DI}crop=$CW:$CH:$CX:$(( (SH-CH)/2 )),scale=$W:$H:flags=lanczos"
 fi
-$FF -i "$IN" -an -filter_complex "[0:v]$VF,fps=30,setsar=1,$GRADE[o]" -map "[o]" $ENC "$OUT"
+ff -i "$IN" -an -filter_complex "[0:v]$VF,fps=30,setsar=1,$GRADE[o]" -map "[o]" $ENC "$OUT"
