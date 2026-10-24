@@ -81,7 +81,7 @@ approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
 | Cohort 4 open Reel | Approved, Tue 27 Oct | Week 8 phone: 171923 172010 174537 175854 181657 181956 182204 182314 183525 191138 |
 | Cohort 2 video | Approved, Reel Tue 3 Nov | CH2_WK2_02 _11 _15, CH2_WK3_05, 20260611_190319, 20260618_190349, 20260618_192028, 00072, 00087, CH2_WK6_13 _21, STREAM_27, 2R9A3434_branded, 2R9A3670_branded |
 | Cohort 3 video | Awaiting approval | Max_Chat_Wk1, Kaitlin_Newsreader_TK3, Tommy_Chat_2, Charlotte_NewsReader_TK2, Milo_NewsReader_tk2, WK3_Charolotte_7ways (2), Wk3_Tom_7ways, WK3_Kaitlin_7ways, WK3_Kaitlin_7ways (3), DSCN9690 9693 9707 9718 9720, Week 8 phone 175350 180629 181908 183844 |
-| Cohort 1 video | Awaiting approval | STREAM C1 Week 7 folder: 00017 00020 00023 00027 00034; Carioca stills 0Z2A0016 0017 0874 0904 0910 |
+| Cohort 1 video | Approved 24 Oct, Reel Tue 17 Nov | STREAM C1 Week 7 folder: 00017 00020 00023 00027 00034; Carioca stills 0Z2A0016 0017 0874 0904 0910 |
 | Week of 26 Oct photo posts | Awaiting approval | Tommy_Vo_Chat_Wk1, Max_Newsreader_1, Charolotte_Chat_2, Kaitlin_Newsreader_TK2, DSCN9691, DSCN9708, Week 8 phone 175509 |
 | Commercial set photo | Scheduled 26 Oct | assets/lights-on-commercial-set-bts.jpg |
 
@@ -101,7 +101,7 @@ teaching content, "Inclusive by design" end card) and is delivered in two cuts:
 
 | Cohort | Story | Footage | Status |
 |---|---|---|---|
-| Cohort 1 (pilot) | Where it started: a real professional set, and three of five went on to paid work | Carioca Days 1 to 3 (credit Carioca), Week 7 STREAM clips, Liza's phone clips | Waiting on Drive quota, retry 23 Oct |
+| Cohort 1 (pilot) | Where it started: a real studio from day one, five actors, one pilot | Carioca stills (credit Carioca), STREAM Week 6 and 7 clips | Approved 24 Oct: 22s 9:16 Reel (Tue 17 Nov, Liza posts from Instagram) and 37s 16:9 website version |
 | Cohort 2 | Eight weeks from first read to headshots | CH_2_WK-1_8 Weeks 2 to 8, STREAM, Week 6 silent clips, Warren's folder | Cut 23 Oct: 25s 9:16 Reel and 40s 16:9 website version, awaiting approval. Footage downloaded and logged (scratch c2/shotlog.md). Avoid: clapperboard names (Week 7 STREAM_08 to 24), eating mime (Week 6 breakfast scene), readable scripts and whiteboards. |
 | Cohort 3 | The full eight weeks, ending on Week 8 headshot day | CH3_WK-LESSON_1_8 Weeks 1 to 8 | Week 8 Reel posted 22 Oct; full cohort cut to build |
 
