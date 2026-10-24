@@ -84,12 +84,13 @@ approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
 | Cohort 3 video | Awaiting approval | Max_Chat_Wk1, Kaitlin_Newsreader_TK3, Tommy_Chat_2, Charlotte_NewsReader_TK2, Milo_NewsReader_tk2, WK3_Charolotte_7ways (2), Wk3_Tom_7ways, WK3_Kaitlin_7ways, WK3_Kaitlin_7ways (3), DSCN9690 9693 9707 9718 9720, Week 8 phone 175350 180629 181908 183844 |
 | Cohort 1 video | Approved 24 Oct, Reel Tue 17 Nov | STREAM C1 Week 7 folder: 00017 00020 00023 00027 00034; Carioca stills 0Z2A0016 0017 0874 0904 0910 |
 | Actor Reel: Harry | Approved 24 Oct | C2 Wk7 00184 (10.5-13.3, 32-35), C1 00000, C1 00033, C1 00024, CH2_WK2_03, C2 Wk6 00129, C2 Wk8 still 2R9A3399_branded |
+| Actor Reel: Milo | Awaiting approval | CH2_WK2_08 (27.5-30.5), C2 Wk5 00070 (55-58), C2 Wk6 00083 (48-51), C2 Wk6 00084 (21-23), Milo_Chat_1 (16-19), Milo_Chat_2 (36-39), DSCN9721 (24-27), C2 Wk8 still 2R9A3565 |
 | Week of 26 Oct photo posts | Awaiting approval | Tommy_Vo_Chat_Wk1, Max_Newsreader_1, Charolotte_Chat_2, Kaitlin_Newsreader_TK2, DSCN9691, DSCN9708, Week 8 phone 175509 |
 | Commercial set photo | Scheduled 26 Oct | assets/lights-on-commercial-set-bts.jpg |
 
 ## Actor Reels (Liza, 2026-10-24)
 
-One 9:16 Reel per actor across all their cohorts, named on screen ("Meet Harry."). Order: Harry (done), Milo, Tommy, Warren, Emalisse, Willow, Alex, Emily, Jackson, Allycia, Charlotte, Kaitlin, Max. Best-moment index per actor: scratchpad `actors/index.md` (rebuild from shot logs if missing). Build with `scripts/` per CLAUDE.md.
+One 9:16 Reel per actor across all their cohorts, named on screen ("Meet Harry."). Order: Harry (done), Milo (awaiting approval), Tommy, Warren, Emalisse, Willow, Alex, Emily, Jackson, Allycia, Charlotte, Kaitlin, Max. Best-moment index per actor: scratchpad `actors/index.md` (rebuild from shot logs if missing). Build with `scripts/` per CLAUDE.md.
 
 ## Stills
 
