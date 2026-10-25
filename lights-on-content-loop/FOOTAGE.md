@@ -86,13 +86,14 @@ approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
 | Actor Reel: Harry | Approved 24 Oct | C2 Wk7 00184 (10.5-13.3, 32-35), C1 00000, C1 00033, C1 00024, CH2_WK2_03, C2 Wk6 00129, C2 Wk8 still 2R9A3399_branded |
 | Actor Reel: Milo | Awaiting approval | CH2_WK2_08 (27.5-30.5), C2 Wk5 00070 (55-58), C2 Wk6 00083 (48-51), C2 Wk6 00084 (21-23), Milo_Chat_1 (16-19), Milo_Chat_2 (36-39), DSCN9721 (24-27), C2 Wk8 still 2R9A3565 |
 | Actor Reel: Emily | Awaiting approval | C1 00006 (0-3, 25-28), C1 00008 (17-19), C1 00025 (92.4-95), C1 00031 (103-106), C1 00032 (31-34.5), headshot EMILY_EGAN.jpg |
-| Actor Reel: Alex | Awaiting approval | C1 00001 (18.5-21), C1 00003 (33.4-36.4), C1 00004 (19-21), C1 00005 (27-30), C1 00015 (46-48.6), C1 00022 (93-96, 143-146), headshot ALEX_BUCHANAN.jpg |
+| Actor Reel: Alex | Awaiting approval | C1 00001 (18.5-21), C1 00003 (33.4-36.4), C1 00004 (19-21), C1 00005 (27-30), C1 00015 (46-48.6), C1 00022 (93-96, 143-146), headshot ALEX_BUCHANAN.jpg (old file name; she is Alex Ellen) |
 | Week of 26 Oct photo posts | Awaiting approval | Tommy_Vo_Chat_Wk1, Max_Newsreader_1, Charolotte_Chat_2, Kaitlin_Newsreader_TK2, DSCN9691, DSCN9708, Week 8 phone 175509 |
 | Commercial set photo | Scheduled 26 Oct | assets/lights-on-commercial-set-bts.jpg |
 
 ## Actor Reels (Liza, 2026-10-24)
 
 One 9:16 Reel per actor across all their cohorts, named on screen ("Meet Harry."). Order: Harry (done), Milo (awaiting approval), Tommy, Warren, Emalisse, Willow, Alex, Emily, Jackson, Allycia, Charlotte, Kaitlin, Max. Best-moment index per actor: scratchpad `actors/index.md` (rebuild from shot logs if missing). Build with `scripts/` per CLAUDE.md.
+Names: Alex is Alex Ellen (not Buchanan, Liza 25 Oct). Emily surname to confirm (Egan or Eden).
 
 ## Stills
 

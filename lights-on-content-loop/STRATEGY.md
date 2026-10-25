@@ -245,7 +245,7 @@ These are for the strategist's context, not for pulling images from.
   Services) and APAC's Head of Acting (Sean
   Dennehy).
 - Confirmed proof points, the ONLY placements to cite: Harry Edmonds (Queensland Government),
-  Alex Buchanan (City of Gold Coast), Breanna Swan (Human Nature documentary commercial).
+  Alex Ellen (City of Gold Coast), Breanna Swan (Human Nature documentary commercial).
 - Strategic partners: indelarts (MOU), APAC (MOU + in-kind), Inclusively Made (strategic),
   Creative Brisbane Collab (network). Bus Stop Films is in talks only, don't present as an
   established Queensland partner.
