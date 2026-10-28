@@ -28,12 +28,13 @@ credit on Cohort 1 only).
 |---|---|
 | `probe.sh FILE...` | name, duration, resolution, size |
 | `trim.sh IN OUT START DUR [SPEED]` | cut a clip, deinterlaces if needed, SPEED 0.5 = slow motion |
-| `reframe.sh IN OUT PRESET [crop\|pad] [X]` | resize to reel / feed / square / wide; crop around subject X or pad on blurred background |
+| `reframe.sh IN OUT PRESET [crop\|pad] [X] [ZOOM] [Y]` | resize to reel / feed / square / wide; crop around subject X (ZOOM punches in, Y sets height) or pad on blurred background |
 | `still.sh IMAGE OUT PRESET SECONDS` | photo with slow push-in |
 | `caption.sh IN OUT CAPTIONS.tsv` | burn captions; TSV lines `start end title\|line text` (`\n` for a second line), inside the safe zone |
 | `logo.sh IN OUT LOGO.png [tl\|tr\|bl\|br] [WIDTH]` | logo overlay |
 | `endcard.sh OUT PRESET [SEC] [CTA] [HANDLE] [CREDIT]` | Lights On end card (LIGHTS ON, Inclusive by design, CTA, handle, credit) |
 | `concat.sh OUT CLIP...` | join clips of the same size |
+| `drivecut.sh DRIVE_ID OUT START DUR` | cut a frame-accurate segment from a link-shared Drive video without downloading it (2s handles, so trim from 2) |
 | `export.sh IN OUT PLATFORM` | final export to the spec below, prints the report line |
 
 Typical Reel: `trim.sh` each shot, `reframe.sh` to reel, `concat.sh` with `endcard.sh`,
