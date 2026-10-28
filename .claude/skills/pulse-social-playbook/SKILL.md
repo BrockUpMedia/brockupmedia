@@ -22,6 +22,28 @@ written, shot and followed up. Never publish without Liza's "go" in chat.
 
 YouTube (accountId 52989) is connected but unused. Do not post to it until Liza says so.
 
+## Liza's heart and intention (Liza, 2026-10-22)
+
+This is why Lights On exists, in Liza's own words from her Cohort 3 wrap post. Every Lights On post
+should feel like it comes from this place, especially posts for Jess:
+
+> They haven't just learnt new skills. They've made connections, built friendships and found their
+> tribe. As a mum to a neurodivergent son, I understand how important it is to find your people.
+> To feel accepted, understood and like you belong. That's what Lights On is all about.
+> Industry-standard on-camera training, real connections and a community where you can be
+> yourself.
+
+- The three pillars to come back to: **industry-standard on-camera training, real connections, a
+  community where you can be yourself.**
+- Belonging is as important as skills. Show friendships, laughter and people being themselves,
+  not only the craft.
+- Liza's story as a mum to a neurodivergent son is hers to tell. Use it only in her own voice on
+  her personal channel or a post she signs, never as a line in a brand caption without her say-so.
+- Her voice in that post: warm, short paragraphs, plain words, one heart emoji at most, a clear
+  ask at the end ("Join the waitlist. We'd love to have you on board.").
+- Approved hashtags from her: #LightsOn #DisabilityInclusion #Neurodiversity #ScreenIndustry
+  #TrainCreateEmploy (plus #InclusiveByDesign).
+
 ## Step 1: Dream customer (write for one person)
 
 Every post is written to ONE of these people. Name them in the pack ("Written for: Dana").
@@ -105,6 +127,15 @@ keeps growing with fresh, real content. Each item says what to shoot and how:
 - Showcase: move slow, mix wide and close, a few extra seconds at each end for trimming.
 - Photos: take ten, keep one, candid beats posed, light edit only.
 - Afterwards: auto-captions in CapCut or Descript (captions are mandatory, see accessibility).
+- **Reels: upbeat music only, never the original audio** (Liza, 2026-10-21). Music comes from
+  Instagram's own library, so Reels skip Blotato: cut a silent captioned version, drop it in REELS
+  READY TO POST, and Liza adds the music and posts from the Instagram app (shared to Facebook).
+  Mood: positive, uplifting, "never give up" energy. Full steps in
+  `lights-on-content-loop/STRATEGY.md`.
+- **Never cut or post the same footage twice** (Liza, 2026-10-24): check the used-shots log in
+  `lights-on-content-loop/FOOTAGE.md` first and log what you use once approved.
+- **Every Reel cut follows `REEL-EDIT.md`** in this skill folder: edit like one of the best film
+  editors in the world, building the story, cuts and music lift to move people.
 
 Reels get the most reach, so aim for at least one Reel a week on Lights On Instagram once Liza
 has footage. Until then, photos from Drive.
@@ -119,13 +150,18 @@ has footage. Until then, photos from Drive.
 
 ## Step 7: Consistency and engagement
 
-- Keep the cadence each brand's STRATEGY.md sets (Lights On daily on every channel by Liza's
-  choice, Brock Casting Mon, Wed, Fri). Note from the playbook: three solid posts a week beat ten
+- Keep the cadence each brand's STRATEGY.md sets (Lights On about three a week per channel,
+  Brock Casting Mon, Wed, Fri). Liza, 2026-10-22: "We can post less often if the content is
+  better." Every post must name its dream customer (Dana, Jess or Tom) and speak to what that
+  person wants; a post that serves nobody in particular is cut, not scheduled. Note from the playbook: three solid posts a week beat ten
   then nothing. If quality slips, recommend fewer, better posts rather than filling slots.
 - **Engagement is half the job.** Each Monday pack includes an **Engagement round**: pull the
   last week's comments with `blotato_list_comments` on published posts, and draft a reply for
   each one in the brand's voice. Replies are only posted after Liza approves them by number
   (`blotato_post_comment`). Flag any DM or comment that is a lead.
+- **No repeats (Liza, 2026-10-22):** the same proof point, stat or headline message runs at most
+  once a fortnight per channel. Check the queue (`blotato_list_schedules`) and last week's posts
+  before drafting, and pick a fresh angle if it's already out there.
 - Never run out of ideas: keep a running idea bank at the bottom of each pack (5 ideas, one line
   each, tagged by bucket).
 
