@@ -89,6 +89,8 @@ approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
 | Actor Reel: Alex | Awaiting approval | C1 00001 (18.5-21), C1 00003 (33.4-36.4), C1 00004 (19-21), C1 00005 (27-30), C1 00015 (46-48.6), C1 00022 (93-96, 143-146), headshot ALEX_BUCHANAN.jpg (old file name; she is Alex Ellen) |
 | Actor Reel: Tommy | Awaiting approval | CH2_WK2_05 (50.5-53.5), CH2_WK3_02 (52-54.5), 20260618_192654 (127-130), C2L 00127 (0.5-3.5), C2L 00182 (94-97), C2L 00183 (22.5-25), DSCN9716 (5.5-8.5), still Tommy_2R9A3502 |
 | Actor Reel: Warren | Awaiting approval | CH2_WK2_19 (20.5-22.5), CH2_WK3_01 (163-166), 20260618_185957 (24.5-27), C2 Wk5 00070 (40-43, 70-72), 00107 (0-3), C2L 00187 (0.3-2.6), still Warren_2R9A3362 |
+| Actor Reel: Emalisse | Awaiting approval | CH2_WK2_13 (21-24), CH2_WK3_07 (4-7), 00109 (2-5), C2L 00130 (18-21), C2L 00137 (0.5-3), C2L 00170 (10.5-13.5), C2L 00172 (9-12), headshot Emalisse_Lennon_headshot |
+| Actor Reel: Willow | Awaiting approval | CH2_WK2_16 (3-6), CH2_WK3_03 (52-55), 00071 (24-26), 00114 (3-6), C2L 00138 (13-16.7), C2L 00139 (0.5-3.5), C2L 00176 (8.5-10.5), still 2R9A3629 |
 | Week of 27 Oct photo posts | Scheduled 29 Oct to 2 Nov | DSCN9708 (23s), DSCN9705 (15.5s), DSCN9691 (14.5s), Charolotte_Chat_2 (100s, colour fixed), Max_Newsreader_1 (17.75s). Rejected (eyes closed): DSCN9691 14s, Max_Newsreader_1 6s |
 | Commercial set photo | Scheduled 26 Oct | assets/lights-on-commercial-set-bts.jpg |
 
