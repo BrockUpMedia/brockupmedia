@@ -78,7 +78,7 @@ approves. The 16:9 and 9:16 cuts of one cohort video count as one edit.
 
 | Edit | Status | Clips and stills used |
 |---|---|---|
-| Week of 10 Nov photo posts | Awaiting approval | C3 Wk1 stills (grab.sh): Charky_WK1_Chat frame 2, Charky_WK1_Chat2 frames 2 3 (of 7) and 2 7 10 (of 10). C2 16 July: 20260716_172002 172132 172319 192831 192836, IMG_3578 3580 3582 3595 3603, COHORT_2_group_pic. Rejected by Liza: 20260706_102318 105540 111748 114549 (business plans, not Lights On); Charky_WK1_Chat2 frames 4 and 5 of 7 (eyes closed); 20260716_192852 (used before); IMG_3576, IMG_3584; IMG_3586 (Liza, not to be used); the other C3 Wk1 grabs |
+| Week of 10 Nov photo posts | Awaiting approval | C3 Wk1 stills (grab.sh): Charky_WK1_Chat frame 2, Charky_WK1_Chat2 frames 2 3 (of 7) and 2 7 10 (of 10). C2 16 July: 20260716_172002 172132 172319 192831 192836, IMG_3578 3580 3582 3593 3595 3603, COHORT_2_group_pic. Rejected by Liza: 20260706_102318 105540 111748 114549 (business plans, not Lights On); Charky_WK1_Chat2 frames 4 and 5 of 7 (eyes closed); 20260716_192852 (used before); IMG_3576, IMG_3584; IMG_3586 (Liza, not to be used); the other C3 Wk1 grabs |
 | Week 8 Reel (C3) | Posted 22 Oct | Week 8 phone: 171923 171946 174101 174911 175249 180557 180653 181739 182756 182928 183037 183736 183855 |
 | Cohort 4 open Reel | Approved, Tue 27 Oct | Week 8 phone: 171923 172010 174537 175854 181657 181956 182204 182314 183525 191138 |
 | Cohort 2 video | Approved, Reel Tue 3 Nov | CH2_WK2_02 _11 _15, CH2_WK3_05, 20260611_190319, 20260618_190349, 20260618_192028, 00072, 00087, CH2_WK6_13 _21, STREAM_27, 2R9A3434_branded, 2R9A3670_branded |
