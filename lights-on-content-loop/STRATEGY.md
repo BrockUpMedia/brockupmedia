@@ -131,12 +131,99 @@ The headshots already scheduled (2:3 with a "LIGHTS ON" bar) are too tall for In
 posting any 2:3 image to Instagram, pad it to 4:5 with near-black `#0D0D0D` side borders. Never
 crop it, because cropping cuts off the brand bar.
 
+**Cohort 3 BTS and media consent (Liza, 2026-10-21).** Every cohort signs a media release before
+starting. Weekly BTS lands in "CH3_WK-LESSON_1_8" `1BojLl5Y51vE0hgfn8yEE0uCBpBfU_gNX`, one folder
+per week (e.g. CH3_WK8_BTS `1G7DU2d6NjAoSyg4DUtvtHKpAVRo5iT5C`, vertical 1080x1920 phone clips
+and 3000x4000 photos). Everything sitting loose in a week folder is free to post. Liza moves
+anything she doesn't want used into that week's **Do not post** subfolder (Wk 8:
+`1hS4xlF-NMXoNqQP-MBI0LkhcH-QrMJSB`); never use anything inside it. Names come only from the sheet
+"Cohort 3 media consent" `1v5F6vwC_Oz5yw4dvN-7-1BpKFXiXGH751d1AYfiQ91c` **NEVER use Emma (Cohort 3), on any channel,
+ever (Liza, 2026-10-22: she has not consented to social media). Emma wears glasses. Skip any
+file or folder with Emma in the name (e.g. "Emma Wk8", Emma.MTS, Emma_Chat_Singing) and any
+Cohort 3 frame where she appears; when unsure whether a person is Emma, leave the shot out.** (OK to show, OK to name,
+Instagram handle). Name or tag someone only where OK to name is Y. Each new week folder gets a Do
+not post subfolder. Ignore the raw .MTS camera folders for social.
+
+**Reel audio (Liza, 2026-10-21): every Reel gets upbeat music from Instagram's own library, never
+the original audio.** **Never keep spoken audio, ever (Liza, 2026-10-22), not even on teaching
+clips or interviews.** Strip all original sound. Any words on screen are full sentence captions,
+never word by word flashes, timed to be read twice. Blotato posts through the API and cannot add Instagram music, so Reels never
+go through Blotato. Instead:
+1. Cut the Reel here: original sound stripped completely, vertical 1080x1920, best shot first, a
+   bold text hook on screen in the first second, short on-screen text lines, and a "[Upbeat
+   music]" caption at the start for screen reader and Deaf viewers.
+2. Upload the silent cut to "REELS READY TO POST" `1RiH4DvGOPME1MrUNCN51Zb_iORmnmSEC` in the
+   Lights On master folder, with the approved caption, hashtags, collaborators and a suggested
+   music mood in the pack.
+3. Liza posts it from the Instagram app on @lightsonqld: adds a track from Instagram's music
+   library, ticks "Share to Facebook" so the Lights On QLD page gets it with the same music, and
+   posts or schedules it there. Flag it in the push notification so it doesn't get missed.
+4. LinkedIn never gets the Reel (no Instagram music there); use photos for the Studio page.
+Instagram business accounts only get the commercial-use music library, so suggest a mood, not a
+specific chart song. Mood (Liza, 2026-10-21): positive, uplifting and motivating, music that says
+"keep going, never give up": building piano or strings into a driving beat, warm pop, anthemic.
+Not sad, not sentimental, not cheesy. The music carries the feeling; the captions still follow
+the voice rules (never "brave", "inspiring" or "overcome" about participants). Show progress and
+confidence, let the music lift it.
+
+**Video title line: "Inclusive by design" (Liza, 2026-10-22).** Every Lights On video end card and
+title reads "Inclusive by design", never "disability-led". Liza extended this to everything the
+same day: all copy, captions and hashtags use "inclusive by design" (#InclusiveByDesign), never
+"disability-led" or #DisabilityLed. Full footage list: FOOTAGE.md.
+
+**Never give away the teaching (Liza, 2026-10-22).** No post, caption or on-screen text reveals
+what is taught in the program: no tips, techniques, exercises or advice from the sessions, and no
+actor or tutor voices. Teaching footage is used only as behind the scenes atmosphere (the room,
+focus, laughter, people on their feet, the camera rolling), with captions about the experience and
+the people, never the lesson. Educate posts draw on Liza's casting expertise and industry insight,
+not the Lights On curriculum.
+
+**Footage credit (Liza, 2026-10-22).** Carolina at Carioca (carioca.au) shot the Cohort 1 pro BTS
+and wants to be tagged on posts that use her footage. Credit Carioca on Cohort 1 footage only,
+never on any other cohort. On those posts: Instagram collaborator or tag, and a "Footage: Carioca"
+credit line elsewhere. Instagram handle: ASK LIZA, not yet confirmed. Some Cohort 1 footage is
+Liza's own phone footage; no credit on those.
+
+**Hero photo (Liza, 2026-10-22, "I love this picture, use this in our social posts"):**
+`assets/lights-on-commercial-set-bts.jpg` (9:16 phone photo). Two participants at a high table with
+a product box during a commercial scene, Liza (confirmed by Liza) in glasses holding the script up
+beside the lens,
+and a man operating a 4K camera on a tripod, softbox behind. Feed crop: 4:5 at x 110, y 470,
+width 920 (1080x1350), keeps all four people and trims the floor. Use it as the go-to image for
+"a real commercial set" posts on all three channels. Captions name her as "Liza Brock, Casting
+Director at Brock Casting Services" (tag @brockcasting on Instagram). Don't name the others
+unless Liza supplies the names.
+
+**Cohort 2 footage "CH2_WARREN_DEMPSTER"** `1wFyWCz0t5N3UN80CDdjMlroSAtsHEsRN` (Liza, 2026-10-22,
+"great for Instagram"): .MTS camera clips (COHORT2_nn.MTS, 000nn.MTS) and Warren_Milo.mp4. Same
+rules: no original audio, no teaching content. It also holds "LIGHTS_ON_8 week course pdf.pdf",
+the curriculum: never use it or quote it in any post.
+**"Cohort 2 _WK 6 No sound"** `1hR_UTPmWZcQKZVpvlwk39TbcEz2Tqkng` (Liza, 2026-10-22, "great
+footage"): small .MTS clips (20 to 50MB) from 2 July, Week 6, already silent. Ready for a Reel.
+
 Older subfolders (check only if the primary folder doesn't have something that fits):
 - "Lights On - Cohort 2 Social Assets" — `1elqVjuA6bLcq931im3TLXqcSGyMnpGUI` (most recent, prefer
   for current cohort content)
 - "Lights On BRAND" — `1Vvc8vU31wNIfANI7se5lP6R2gZav9LeC` (logos, brand assets)
 - "LIGHTS ON MARKETING" — `1FfMi2YscHjDrOTn6sk1iTh9zUuoStVFx`
-- "00_1_Cohort 1 Social Media" — `17NDnWbtPX8JvREjQxHqOpiDN5ec0FmgN`
+- "00_1_Cohort 1 Social Media" — `17NDnWbtPX8JvREjQxHqOpiDN5ec0FmgN`. Liza cleared it for use
+  (2026-10-22). Holds 8 finished vertical teaching shorts from Cohort 1 (720x1280, made in
+  Vizard with word-by-word captions and spoken audio): "The Secret to Great Camera Acting:
+  Stillness", "When to Disclose on a Film Set", "Understanding the Hierarchy on a Film Set",
+  "POV Acting Mistakes: Staring at Blank Walls", "One Shot Table Jump Challenge", "Don't mess
+  with a parent protecting their child", "A Hilarious Horse Riding Audition Fail" (v2 is an
+  identical duplicate). Use only as behind the scenes atmosphere, never for the advice itself (see "Never give away the
+  teaching"). Before using, trim the "vizard.ai" end card
+  (last 2 to 3s). Don't name the tutor from the footage alone. Two raw W07 wides (31 Mar) are too
+  distant to be useful.
+- Cohort 1 professional BTS, shot by Carolina (carioca.au), cleared by Liza 2026-10-22:
+  Day 1 (17 Feb) "00_1_1_1_BTS" `1vsT9hTfltTCKzkWzXSlmRCf5PC7SAzbT` (Canon 4K HEVC 50fps
+  landscape .MP4 plus CR3 raws) and Day 2 (24 Feb) "00_1_1_day2_BTS"
+  `1Z0JHuUiFOQT-e10ZugrXz-zTqbitfinb` (61 .mov clips) and Day 3 (3 Mar) "LIGHTS ON DAY 3"
+  `1GnwyWUtg7FeEZ5K8b4sUYYYDTWteLJtU` (CR3 raws and more). Files run up to 23GB, so never download
+  whole: read frames and cut segments remotely with ffmpeg (`-http_proxy "$HTTPS_PROXY" -ca_file
+  /root/.ccr/ca-bundle.crt`, drive.usercontent.google.com URL). Landscape, so Reels need a 9:16
+  crop or pan. A shot log lives with the session scratch work, rebuild it if missing.
 - "LO_IMAGES_EDIT" — `1Qs9O3JjwyasvpjH7EiZjUExvEA5ql0bL`
 
 Strategy/partnership source documents also live in Drive (search `fullText contains 'Lights On'`):
@@ -145,9 +232,12 @@ These are for the strategist's context, not for pulling images from.
 
 ## Locked facts (never invent beyond this list — from the `lights-on-partnerships` skill)
 
-- Lights On = disability-led screen training initiative, inside Brock Casting (parent: Brock Up
+- Lights On = screen training initiative, inclusive by design, inside Brock Casting (parent: Brock Up
   Media Pty Ltd). Co-directed by Liza Brock and Breanna Swan.
 - Lights On Agency = brand partnerships and content agency, NOT a talent agency. Never call it one.
+- Cohort 3 wrapped in October 2026 (Liza, 2026-10-22). **Cohort 4 is open, with a waitlist.**
+  Waitlist link: https://www.brockcasting.com.au/lights-on-brisbane (Liza, 2026-10-22). This is
+  the main call to action for Jess posts (Instagram: "Join the waitlist via the link in our bio.").
 - Cohort structure: Pilot (5, completed), Cohort 2 (6, completed), Cohort 3 (6, launching Sept
   2026). Standard cohort size from Cohort 2 onward is 6. 2027 target: 4+ cohorts, 40+ cumulative
   participants is a 2027 target, never present as current.
@@ -155,7 +245,7 @@ These are for the strategist's context, not for pulling images from.
   Services) and APAC's Head of Acting (Sean
   Dennehy).
 - Confirmed proof points, the ONLY placements to cite: Harry Edmonds (Queensland Government),
-  Alex Buchanan (City of Gold Coast), Breanna Swan (Human Nature documentary commercial).
+  Alex Ellen (City of Gold Coast), Breanna Swan (Human Nature documentary commercial).
 - Strategic partners: indelarts (MOU), APAC (MOU + in-kind), Inclusively Made (strategic),
   Creative Brisbane Collab (network). Bus Stop Films is in talks only, don't present as an
   established Queensland partner.
@@ -209,7 +299,7 @@ fact, not a boast.
 
 ## Accessibility checklist (Liza's rule, 2026-10-14, from Purple Goat's Social Media Accessibility 101)
 
-Lights On is disability-led, so every post has to be accessible. A draft that fails any of
+Lights On is inclusive by design, so every post has to be accessible. A draft that fails any of
 these is incomplete.
 
 1. **Alt text on every image.** 1 to 2 sentences on the overall image and what it represents,
@@ -261,3 +351,11 @@ Weekly (Liza, 2026-10-14). One pack every Monday at 6:52am Brisbane covers Tuesd
 Monday, with a push notification, and a Monday 4:47pm push nudge only if she hasn't replied. If genuinely
 new material lands midweek (a new partner, a booking), raise it in chat as a one-off swap rather
 than waiting a week.
+
+**Fewer, better posts (Liza, 2026-10-22).** Quality beats frequency, so Lights On drops from daily
+to about three strong posts a week per channel, every one written for a named dream customer from
+the Pulse playbook (Dana on LinkedIn, Jess on Facebook and Instagram):
+- Studio LinkedIn (Dana): Mon, Wed, Fri at 7:45am.
+- Instagram and Facebook (Jess): Tue, Thu, Sat at 6pm, with one of those three as the weekly Reel.
+- If a draft can't say who it's for and why they'd stop scrolling, it doesn't run. An empty slot
+  beats a filler post.

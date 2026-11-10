@@ -40,8 +40,8 @@ very little reach, while a founder's personal posts get several times more. So:
 | Sun | Recap and ask | "This week at Lights On" plus a clear CTA | **Liza personal:** weekly reflection, optional |
 
 Priority of formats: Reels first (the most reach), then carousels (the most saves), then single
-images. Every video carries burned-in captions, and every image has alt text. For a disability-led
-brand, that's credibility as well as good practice.
+images. Every video carries burned-in captions, and every image has alt text. For a brand that is
+inclusive by design, that's credibility as well as good practice.
 
 ## CTA ladder (rotate, one CTA per post)
 
