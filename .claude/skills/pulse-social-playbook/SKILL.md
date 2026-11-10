@@ -137,6 +137,21 @@ keeps growing with fresh, real content. Each item says what to shoot and how:
 - **Every Reel cut follows `REEL-EDIT.md`** in this skill folder: edit like one of the best film
   editors in the world, building the story, cuts and music lift to move people.
 
+**Image rules for photo posts (Liza, 2026-11-10):**
+- Never reuse a photo that has already posted. Before picking, check the used-shots log in
+  `lights-on-content-loop/FOOTAGE.md` and what is published or queued in Blotato. Unlisted
+  library shots (the Cohort 2 Instagram headshots, the "CLAUDE SOCIAL MEDIA COHORT !" photos) are
+  assumed used unless Liza says otherwise.
+- Instagram is a grid: no two similar looking photos (same session, same setup, same people) in
+  the same week's Instagram posts, and never side by side. Mix sessions, wide and close, group and
+  single. Send Liza a mock of the week's Instagram grid before approval.
+- Stills pulled from video (`scripts/grab.sh`) often catch closed eyes or mid-word mouths: offer
+  extras, Liza picks.
+- Show Liza every image full size, one per post, labelled with post number, day, channel and
+  time, not just a contact sheet.
+- Never use: Emma (Cohort 3), anything in a DO NOT POST folder, `CAMERA (raw takes, not for
+  social)`, the 6 July 2026 photos 20260706_* (business plans, not Lights On), IMG_3586 (Liza).
+
 Reels get the most reach, so aim for at least one Reel a week on Lights On Instagram once Liza
 has footage. Until then, photos from Drive.
 
