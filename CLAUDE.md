@@ -35,6 +35,7 @@ credit on Cohort 1 only).
 | `endcard.sh OUT PRESET [SEC] [CTA] [HANDLE] [CREDIT]` | Lights On end card (LIGHTS ON, Inclusive by design, CTA, handle, credit) |
 | `concat.sh OUT CLIP...` | join clips of the same size |
 | `drivecut.sh DRIVE_ID OUT START DUR` | cut a frame-accurate segment from a link-shared Drive video without downloading it (2s handles, so trim from 2) |
+| `grab.sh DRIVE_ID OUTPREFIX N [feed\|none]` | pull N evenly spaced stills from a link-shared Drive video, cropped 4:5 for feed posts |
 | `export.sh IN OUT PLATFORM` | final export to the spec below, prints the report line |
 
 Typical Reel: `trim.sh` each shot, `reframe.sh` to reel, `concat.sh` with `endcard.sh`,
